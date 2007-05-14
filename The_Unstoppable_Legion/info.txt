@@ -1,0 +1,121 @@
+The Unstoppable Legion:
+
+Yet another campaign that involves saving the world, with every chiche I can lay my hands on for the storyline, as these are the best.
+
+Many thanks to contributors for Extended Era and Imperial Era, whose images I've nicked and whose units I've derived from.
+
+v 0.1: First three scenarios.
+
+v 0.1.0a: Fixed bug that somehow slipped through where the dark riders Jaan Delfris summons promptly hack him to bits.
+
+v 0.1.1: Fourth scenario, "The Front Line" added.
+	Size of "More Than a Match" reduced for more intense gameplay.
+	Various changes to "A Test of Valour" to make battle more challenging (but target kills reduced to keep it achievable).
+	Level 2 Dark Warriors introduced.
+	Started fixing duff sound effects.
+
+v 0.1.2: Fifth scenario "The Dwarf and the Lich" added.
+	Numerous AI and balancing adjustments to "A Test of Valour" and "The Front Line"
+	More sound effects fixed.
+	Viktor can now advance to level 3.
+	Dark riders now appear on enemy keeps as if they are being recalled.
+	Fixed anomoly where Mounted Commander and Bowknight are weaker than the units they advanced from in some respects.
+
+v 0.2.0: Bug-fixing and balancing only.
+	Tweaked villages and turn-limit in "More Than a Match" to make it more of a balance between accumulating gold and staying away from the dark riders.
+	Further tweaking to AI in "A Test of Valour" to curb General Karak's suicidal attacks.
+	Deuterus is now on horseback in "The Front Line"
+	Added alternative endings to "The Dwarf and the Lich" in the event that someone somehow manages to kill the Orcish Warlord or the Ancient Lich.
+
+v .0.2.1: New scenario "Beneath Enemy Lines" added as alternative to "The Front Line"
+	"The Dwarf and the Lich" adapted to allow for different starting position and forces when coming from "Beneath Enemy Lines"
+	Fixed bug in "The Dwarf and the Lich" that causes you to lose if someone other than Deuterus defeats Mal-Margheera (I hope)
+	Hero and loyal markers introduced
+	Level 3 unit added and balancing alterations made to Bowrider line.
+	Turn limit in "A Test of Valour" slightly extended to allow a chance to defeat Jaan Delfris in the final few turns when it's not dark.
+
+v 0.2.2: New scenario "Ancient Friends" added, following on from "The Dwarf and the Lich"
+	Fixed bugs that prevented mounted units being reinstated to recall list.
+	"An Unlikely Hero" now begins with outlaws helping you break through enemy lines.
+	Outlaws stay with you until end of third scenario, with bonus if lead outlaw survives.
+	Some broken image links on custom units fixed.
+	Loyal marker recoloured to something more visible. (Still need a better one though.)
+
+v. 0.2.3: New scenario "The Forgotten Front" added. (Additional branch to The Front Line / Beneath Enemy Lines)
+	"The Dwarf and the Lich" and "Ancient Friends" added to take into account path via new scenario.
+	Deaths messages now moved into deaths.cfg file, with new messages for Hubert and Halgar the Mighty.
+	Level 2 advancement of Dark Cultist introduced.
+	Altered image of dismounted commander so that Viktor no longer looks like he's standing on tiptoes.
+	Corrected advancement of Mounted Commander.
+
+v. 0.3.0: Bug-fixing and balancing only.
+	Introduced level 3 units in Dark Fighter and Dark Cultist lines, and used them as enemy leaders in some scenarios.
+	Wesnoth-3, Wesnoth-4, Victory and Defeat music included.
+	Scenario objectives now distinguish between parial objectives and scenario-winning objectives.
+	Rebalanced "An Unlikely Hero" so that there's still a proper battle to fight when Viktor gets back.
+	Strength potion and level 2 General Karak units included in "The Front Line" to make it a bit easier.
+	More monsters in "Beneath Enemy Lines" to make it harder.
+	Fixed bug in "The Forgotten Front".
+	Starting time of day changed in some scenarios to optimise AI skill, balance and gameplay.
+	Dark Riders now have their own images.
+	XP and level now preserved when Viktor / Deuterus mount/dismount.
+	Recruitment delays from caves and sea in "The Dwarf and the Lich" as previously they were too easy.
+	Prince Sven now has leadership like he was supposed to.
+	Tweaked recruitment in Ancient Friends so that side 4 recruits mixture of dark fighters and skeletons.
+	Dialgoue-only scenario "The Calm before the Storm" added.
+
+v. 0.3.1: New scenario "Race Against Time" added, and lots of new units added in the process.
+	Portraits for Viktor, Deuterus, Rufus, Prince Sven and Mal-Margheera added.
+	Images for bowrider line updated to new Imperial Era images.
+
+v. 0.3.2: New scenario "The Mines of Alsok", with Dwarvish Battle Prince and Dwarvish Alchemist introduced.
+	Added Holibar and Gendarme as alternate advancements from Cavalryman.
+	Started including help boxes on Easy for changes to rules.
+	Portait for General Karak added, and portraits for Prince Sven and Mal-Margheera now actually work.
+	Altered "A Test of Valour" to make objectives a little clearer.
+	Some bug-fixing and rebalancing in "The Dwarf and the Lich".
+	Reduced amount of deep water in "The Forgotten Front" to lessen Cuttlefish overload.
+
+v. 0.3.3: New scenario "Prejudice and Pride" added
+	Added Cataphract as alternative advancement from Cavalryman
+	Added Mounted Marksman as alternate advancement from Bowknight
+	Dwarvish Prince can now advance to Dwarvish Battle Prince
+	Dark Riders can advance to Dark Slayers
+	Some rebalancing of "An Unlikely Hero" so that there's something left for Viktor to save when he returns
+	Keep troll guards in "The Dwarf and the Lich" stationary on first three turns otherwise too hard on Medium
+	Hopefully fixed bug in "The Dwarf and the Lich" which sometimes prevented Mal-Margheera appearing
+	Rebalancing of "Race Against Time", also found to be too hard on medium previously
+	Gameplay06 and drums replace wesnoth-3 and wesnoth-4 as music (gameplay06 published as seperate add-on)
+
+v. 0.3.3.1: Changed the way Mal-Margheera appears in "The Dwarf and the Lich" to hopefully squish bug once and for all
+	Changed drums.ogg to work better with the Wesnoth music player not properly looping.
+
+v. 0.3.3.2: Bug-fixing and balancing
+	Clarified objectives by using "or"
+	Move bounty for killing enemy leaders in "A Test of Valour" to the following scenario
+	Turn limit on "The Front Line" increased to make scenario easier and increase gold for next scenario.
+	Fixed various bugs that allow you to continue recalling certain units when you shouldn't
+	Deuterus's bonus HP for AMLAs now preserved when he mounts and dismounts
+	Lava in "Race Against Time" now starts appearing in Turn 2 to break story flow a bit
+	Hopefully fixed bug so that any units lost at the end of "Race Against Time" or "The Mines of Alsok" actually are lost.
+	Drakes now stay away from northern enemy keep in "Prejudice and Pride" so that battle isn't over (one way or the other) before it's started
+	In "The Forgotten Front",use goto_x and goto_y so that reinforcements make a bigger attempt to take the keep.
+	Prince Sven now gains the loyal trait when joining Viktor.
+
+v. 0.4.0: Final bug-fixing
+	Added a couple of pictures to the story sections.
+	More help messages on Easy.
+	All images are now team coloured.
+	Used CLEAR_VARIABLE macro to remove most variables cluttering up save files.
+	Partly fixed bug where units cut off in "Race Against Time" and "The Mines of Alsok" weren't dying.
+	Fixed gold carryover bug for "Prejudice and Pride".
+	Daemons now actually do side with the baddies in "Prejudice and Pride" if you didn't get the scroll.
+
+Known issues:
+
+Elder Woses don't seem to start invisible like they should.
+Units on recall list aren't being deleted. (Shh! Don't tell anyone.)
+Dwarf and the Lich map probably wants widening.
+Various balancing and playability issues with Prejudice and Pride.
+
+Playtested in Wesnoth 1.2.4

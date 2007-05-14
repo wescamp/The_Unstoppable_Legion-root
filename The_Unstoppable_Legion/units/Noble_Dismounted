@@ -1,0 +1,100 @@
+[unit]
+id=Noble (Dismounted)
+name= _ "Noble (Dismounted)"
+race=human
+image="noble-dismounted.png"
+{MAGENTA_IS_THE_TEAM_COLOR}
+hitpoints=31
+movement_type=mounted
+movement=6
+experience=38
+level=1
+alignment=lawful
+advanceto=Commander (Dismounted)
+cost=19
+usage=fighter
+unit_description= _ "Nobles are unused to fighting off horseback, and so are particularly vulnerable should they have to venture across mountains or underground. With neither leadership skills nor good fighting skills, any noble would be well advised to get some decent fighting experience on horseback first."
+get_hit_sound={SOUND_LIST:HUMAN_HIT}
+die_sound={SOUND_LIST:HUMAN_DIE}
+	[resistance]
+		blade=90
+		impact=90
+		cold=90
+	[/resistance]
+	[attack]
+	name=sword
+	type=blade
+	range=melee
+	damage=4
+	number=3
+	icon=attacks/sword-human.png
+		[animation]
+			hits=no
+			[frame]
+			begin=-225
+			end=-150
+			image="noble-dismounted.png"
+			sound=horse-canter.wav
+			[/frame]
+			[frame]
+			begin=-150
+			end=100
+			image="noble-dismounted.png"
+			sound={SOUND_LIST:MISS}
+			[/frame]
+		[/animation]
+		[animation]
+			hits=yes
+			[frame]
+			begin=-225
+			end=-150
+			image="noble-dismounted.png"
+			sound=horse-canter.wav
+			[/frame]
+			[frame]
+			begin=-150
+			end=100
+			image="noble-dismounted.png"
+			sound={SOUND_LIST:SWORD_SWISH}
+			[/frame]
+		[/animation]
+	[/attack]
+	[attack]
+		name=crossbow
+		icon=attacks/crossbow-human.png
+		type=pierce
+		range=ranged
+		damage=3
+		number=2
+		[animation]
+			hits=no
+			[frame]
+				begin=-500
+				end=-300
+				image="noble-dismounted.png"
+				sound=crossbow-miss.ogg
+			[/frame]
+			[missile_frame]
+				begin=-150
+				end=0
+				image="projectiles/missile-n.png"
+				image_diagonal="projectiles/missile-ne.png"
+			[/missile_frame]
+		[/animation]
+		[animation]
+			hits=yes
+			[frame]
+				begin=-500
+				end=-300
+				image="noble-dismounted.png"
+				sound=crossbow.ogg
+			[/frame]
+			[missile_frame]
+				begin=-150
+				end=0
+				image="projectiles/missile-n.png"
+				image_diagonal="projectiles/missile-ne.png"
+			[/missile_frame]
+		[/animation]
+	[/attack]
+[/unit]

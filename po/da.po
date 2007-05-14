@@ -1,0 +1,4147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2007-05-14 18:40+0200\n"
+"PO-Revision-Date: 2007-05-14 18:40+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: The_Unstoppable_Legion.cfg:10
+msgid "The Unstoppable Legion"
+msgstr ""
+
+#: The_Unstoppable_Legion.cfg:15
+msgid ""
+"The legendary legions of Zharagorn, dormant for centuries, have risen again "
+"and city after city is falling in their presence. Only Viktor, a patrol "
+"guard, stands between them and domination of the known world. (9 playable "
+"scenarios so far, written for Wesnoth 1.2.x)"
+msgstr ""
+
+#: The_Unstoppable_Legion.cfg:19
+msgid "Holibar"
+msgstr ""
+
+#: The_Unstoppable_Legion.cfg:19
+msgid "Gendarme"
+msgstr ""
+
+#: The_Unstoppable_Legion.cfg:19
+msgid "(tricky)"
+msgstr ""
+
+#: The_Unstoppable_Legion.cfg:19
+msgid "(beginner)"
+msgstr ""
+
+#: The_Unstoppable_Legion.cfg:19
+msgid "(challenging)"
+msgstr ""
+
+#: The_Unstoppable_Legion.cfg:19
+msgid "Cavalryman"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:5
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:53
+msgid "An Unlikely Hero"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:25
+msgid ""
+"Welcome to The Unstoppable Legion. This is a work in progress, with "
+"currently 9 playable scenarios. Be aware that tactics in this campaign "
+"differ from the mainline campaigns. It is a standalone campaign, but for the "
+"full experience, you should also download 'Ye Newe Melodies Music' from the "
+"server."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:29
+msgid ""
+"In the land of Suveran, where few men of Wesnoth have ever set foot, men "
+"spoke in fear of the invasion of Zharagorn, centuries ago."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:33
+msgid ""
+"In the dim and distant past, King Eldrian decreed that his eldest son, "
+"Wolfgang, was not suitable to succeed him to the throne. Surprised and "
+"angry, Wolfgang departed the kingdom, looking for a way to prove his worth. "
+"For months he travelled the land, until one day, whilst exploring the "
+"World's End mountains, as far north as anyone had ever mapped, he was drawn "
+"to a mysterious cave."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:37
+msgid ""
+"There, he found a crystal, known as the Black Emerald, that granted him "
+"unimaginable power. Prince Wolfgang renamed himself Zharagorn, and from "
+"miles around, people who craved power flocked to his leadership. Even the "
+"dead, fallen mercenaries from ages past with dreams of fortune and glory, "
+"rose to serve him. Soon he had a legion like nothing the world had ever seen."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:41
+msgid ""
+"So legend says, when his legion started marching south, nothing could stop "
+"him. Dwarven and Elvish kingdoms, Orcish clans and city-states in his path "
+"fell one by one. Zharagorn was merciful to those who surrendered, allowing "
+"them to live on as slaves. Those who resisted were slaughtered."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:45
+msgid ""
+"Only the Circle of Druids came anywhere close to stopping him. They sneaked "
+"behind enemy lines and sought to destroy the Black Emerald, still in the "
+"cave where Wolfgang discovered it. But before they could make it, Zharagorn "
+"himself tracked them down, and the Darkguard, the elite of his army, wiped "
+"them out."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:49
+msgid ""
+"Finally, Zharagorn's forces reached Karasov, the capital city. It is said "
+"that King Eldrian's forces held out a remarkable three days before they "
+"realised they were no match for Zharagorn's, then the King himself rode to "
+"meet his son to give whatever he wanted."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:53
+msgid ""
+"Zharagorn's demands were strange. All he asked was for his father to admit "
+"he was wrong to refuse him the throne, and to build a temple to his "
+"greatness. And although the generations who tell the story find it strange, "
+"when King Eldrian agreed to this request, Zharagorn's forces withdrew, never "
+"to be seen again."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:57
+msgid ""
+"That was a long time ago ... But the temple still stood as the centuries "
+"went by. No-one dared to desecrate it, fearing that it would lead to his "
+"return. And there were the cultists: men who prayed for Zharagorn's return, "
+"who worshipped in the temple every day."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:61
+msgid ""
+"Of course, legends are just legends, and eventually some started to question "
+"how reliable the story really was. Indeed, many started to believe it was "
+"nothing more than superstitious tittle-tattle. Then one day, Zharagorn "
+"returned, and a new legend was made. But this time, the legend was of a "
+"young man named Viktor ... and how he stood up to the unstoppable legion."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:326
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:864
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1019
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:710
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1075
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:688
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:778
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1050
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:586
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:168
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:593
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:729
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:775
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:849
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:240
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:792
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1010
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1333
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:316
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:903
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1071
+msgid "` "
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:329
+msgid ""
+"*@<255,255,255>Objective I:\n"
+"<0,255,0>Move Viktor to the keep in the south"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:150
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:333
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:877
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1032
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:184
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:700
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:790
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1067
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:136
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:258
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:235
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:601
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:175
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:600
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:747
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:787
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:867
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:126
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:247
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:799
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1022
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1351
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1387
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:323
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:915
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1089
+msgid "Death of Viktor"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:337
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:881
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1036
+msgid "Death of Rufus"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:162
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:341
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:198
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:726
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1096
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:712
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:802
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1079
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:152
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:270
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:247
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:183
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:608
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:795
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:134
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1367
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1403
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:335
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:931
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1101
+msgid "Turns run out"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:395
+msgid ""
+"When I first saw Viktor, I admit I misjudged him. As danger reared its ugly "
+"head, he seemed, as many nobles on horseback are, little more than a coward."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:419
+msgid "I don't like it here. It's too quiet."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:439
+msgid "Surprise, surprise! Drop your weapon and hand over your gold!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:444
+msgid "Please, good sir. I am just on border patrol. I mean no harm."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:449
+msgid ""
+"Look, Rufus! He bears the arms of nobility. He'll fetch us a tidy ransom!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:454
+msgid ""
+"Indeed. It is fortunate that you came our way. Jan, take our guest somewhere "
+"safe until I decide-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:469
+msgid "Sir! Someone's coming! Some sort of soldiers ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:474
+msgid "The rest of the border patrol? Lucky we've got a hostage."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:479
+msgid "No, sir! Not the border patrol. They're ... I don't know."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:527
+msgid ""
+"You! Vagrants in the woods! I am a loyal officer of the forces of Zharagorn. "
+"Sumbit now, or face your death."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:532
+msgid "Zharagorn ... It's impossible. It's just a myth."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:537
+msgid ""
+"We shall never surrender to you! We would rather die free than live as "
+"slaves."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:542
+msgid "Very well. Prepare to die! Ha! Ha! Ha! Ha!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:547
+msgid "We don't stand a chance. There's too many."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:552
+msgid "Let me go. I can get help."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:557
+msgid "No! Let him fight and die with the rest of us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:562
+msgid "Please. There is a border patrol nearby. I can bring them to help."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:567
+msgid "And if I don't trust you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:586
+msgid ""
+"Sir, we have no choice. If we don't trust him, we all die. If we let him go, "
+"we might live to fight another day."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:591
+msgid ""
+"Very well. Owayn, lead a small force under this noble's command so that he "
+"can break out. Rest of you - defend this hideout!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:678
+msgid "Take that, you fiend!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:691
+msgid "You didn't think we'd let you escape that easily, did you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:702
+msgid "Die, foul creature!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:731
+msgid ""
+"Phew, looks like I've made it out! Just a little further and ... Huh? Who's "
+"that?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:747
+msgid "What are you going to do, boy? Fight like a man, or flee like a coward?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:751
+msgid "Oh no! Not that senile old fool from the swamp hut again!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:755
+msgid "Senile? I'll give you a senile!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:789
+msgid "Viktor, what's the hurry?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:794
+msgid ""
+"Sir, a strange army has crossed the border, and they're attacking a hideout. "
+"They claim to be soldiers of Zharagorn! We must stop them!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:799
+msgid ""
+"Zharagorn? It can't be ... Anyway, they're only outlaws. We can't risk "
+"losing soldiers on the likes of them."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:816
+msgid ""
+"With all due respect, sir, we must fight! Outlaws or not, we have a duty to "
+"protect everyone from invaders to this land."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:821
+msgid "All right ... Hubert, Viktor is now your commander."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:826
+msgid "Me? Commander?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:831
+msgid ""
+"It's about time you had some command experience. Round up anyone you can "
+"find on border patrol and fight with whatever you've got."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:836
+msgid "Yes, sir!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:841
+msgid ""
+"I'll be back as soon as I can with reinforcements. Prove your worth today "
+"and you might stay a commander. Oh, and one other thing ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:846
+msgid "Yes?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:851
+msgid ""
+"Try not to get yourself killed. I promised your father on his deathbed I'd "
+"look out for you."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:867
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1022
+msgid ""
+"*@<127,127,127>Objective I:\n"
+"<127,127,127>Move Viktor to the keep in the south"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:873
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Defeat Mal-Dhekara (Viktor must fight); or\n"
+"<0,255,0>Hold out until turns end (Viktor must fight)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:885
+msgid "Either objective achieved without Viktor participating in combat"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:920
+msgid "Look! He's coming back! And he's got reinforcements with him!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:924
+msgid "By the gods, so he is."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:928
+msgid ""
+"Aye, but will the boy fight or let others do it for him? What are you boy, a "
+"man or a mouse?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:932
+msgid "(Grr.) Once we've killed these outlaws, that fool's going to be next."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:958
+msgid "That's more like it, boy! Show them what you're made of!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:962
+msgid "That's it! Someone kill that stinking peasant this instant!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:966
+msgid ""
+"Stinking peasant? I ain't no stinking peasant! I'll tell you who I am! I "
+"am ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1006
+msgid ""
+"... Deuterus, Great Druid of the northern forest, and you shall pay for your "
+"tresspass!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1028
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Defeat Mal-Dhekara; or\n"
+"<0,255,0>Hold out until turns end"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:154
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1040
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:188
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:704
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:794
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1071
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:140
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:262
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:239
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:605
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:179
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:604
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:751
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:791
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:871
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:130
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:251
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:803
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1026
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1355
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1391
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:327
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:919
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1093
+msgid "Death of Deuterus"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1066
+msgid ""
+"Viktor is a Mounted Noble. At level 1, he has a moderate meelee attack and a "
+"weak ranged attack. However, from level 2 he gains a leadership ability, so "
+"try to level him up as soon as possible. Like all patrol guards, Viktor is "
+"lawful."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1078
+msgid ""
+"Note that Owayn has a blue crescent next to him. This is a character marker. "
+"Characters are loyal and recalled for free at the start of every scenario. "
+"Unlike heroes, the loss of a character does not lose you the scenario, but "
+"characters are valuable and should be used prudently."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1090
+msgid ""
+"Hubert is also a character. Try to keep him alive, for he may be of great "
+"help later in the campaign."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1102
+msgid ""
+"Deuterus is a Great Gruid. He has a very powerful magical attack, and weaker "
+"meelee and slow attacks. He also has the cures ability. Like poachers and "
+"trappers, Deuterus has particularly good defences in forests and swamps, but "
+"he lacks the manouverability in forests enjoyed by elves."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1114
+msgid ""
+"Dark fighters form the rank and file of the dark legions. They have a strong "
+"meelee attack but no ranged attack. Like all servants of Zharagorn, dark "
+"fighters are chaotic."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1126
+msgid ""
+"Dark cultists have weaker meelee and ranged attacks. However, they are "
+"skirmishers, and they can easily slip through gaps in your ranks and pick "
+"off wounded units. Take care."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1139
+msgid ""
+"In this campaign, three advancements are open to Cavalrymen: Dragoons, "
+"Holibars and Cataphracts. Holibars are light skirmishing units and "
+"Cataphracts are slower units that excel at meelee. Try to get mixture of all "
+"three units."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1152
+msgid ""
+"Bowriders are fast mounted units, useful for picking off enemies with no "
+"ranged attack. However, although they have swords, they have no armour and "
+"are vulnerable in meelee combat. Do not use them to hold off enemy lines!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1166
+msgid ""
+"Stranger, we are eternally in your debt. Please accept our apologies that we "
+"ever doubted your word."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1170
+msgid ""
+"Viktor, I knew I could count on you to lead men into battle. Consider "
+"yourself a commander permanently."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1174
+msgid ""
+"I am honoured to accept. But I am worried ... Who were those men, and what "
+"if there are more coming?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1178
+msgid ""
+"Noble fighters, the situation is very grave. They were who they said they "
+"were, and the ancient legion of Zharagorn is on the move once more."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1182
+msgid "My Lord, this is ... who are you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1186
+msgid ""
+"My name is Deuterus, but there is no time for introductions. We must head to "
+"Karasov immediately to alert the King."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1190
+msgid "(I don't believe it. All the time he lived here and I never knew ...)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1194
+msgid ""
+"I doubt there's any real danger. They were probably just brigands pretending "
+"to be followers of Zharagorn to look more powerful ... Still, we'd better "
+"alert the King about this. Come, old man, if you know about these people you "
+"can explain it to him."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1203
+msgid ""
+"Rufus, I wish to accompany Viktor back to Karasov. It's the least we can do "
+"in return."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1207
+msgid ""
+"Very well, but you'll have to leave before entering Karasov. I doubt their "
+"king will be very welcoming to us. Everyone else, let's head for the hills "
+"before the rest of this army arrives."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1213
+msgid ""
+"I wish we could help you further, but I doubt your king will be very "
+"welcoming to us. Everyone, let's head for the hills before the rest of this "
+"army arrives."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1231
+msgid "Come on, Viktor. Let's start heading south whilst the weather's good."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1235
+msgid ""
+"And so we embarked on the journey to Karasov. As we travelled, I looked at "
+"Viktor. A newly-appointed commander with a fledgling force, I knew very "
+"little about him. But something told me he was who I'd been waiting for."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1239
+msgid ""
+"With the land of Suveran facing its darkest hour, fate, it seemed, had "
+"provided us a hero."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1268
+msgid "Enemy reinforcements are upon us! We have been betrayed!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1309
+msgid "Begone, foul brigands, in the name of King Gamaron!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1313
+msgid ""
+"Damn you! But know this: we are but a small advance party. When I return "
+"with the whole Legion of Zharagorn, you will all be slaughtered like dogs."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1336
+msgid ""
+"Viktor, that's no way to lead soldiers into battle, staying at the back and "
+"letting others risk their lives. I'm sorry, but you are not ready to be a "
+"commander."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1365
+msgid ""
+"So, you have defeated me. But know this: we are but a tiny advance party. "
+"When the rest of the Legion of Zharagorn comes to avenge my death, you will "
+"all be slaughtered like dogs."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1394
+msgid "Begone foul- ... oh, they're already gone."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1411
+msgid ""
+"Viktor, those brigands may have been defeated, but that's no way to lead "
+"soldiers into battle, staying at the back and letting others risk their "
+"lives. I'm sorry, but you are not ready to be a commander."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1439
+msgid "No! I have been betrayed!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1443
+msgid ""
+"I've failed in my promise, and I've failed to prove my worth as a commander."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1468
+msgid "It's over ... it's all over."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1493
+msgid "I have failed! Failed before I have started."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1497
+msgid "Wait! I don't even know who you are ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1519
+msgid "Forgive me Viktor, I can't go on."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:5
+msgid "More than a Match"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:140
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:130
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:252
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:120
+msgid ""
+"` \n"
+"*@<255,255,255>Victory:"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:122
+msgid "Defeat the orc leader"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:168
+msgid ""
+"For many days, we rode south. But, alas, Suveran's darkest hour was upon us "
+"sooner than I thought."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:173
+msgid "Look! To the north!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:178
+msgid "I don't believe it! How did they catch up with us so quickly?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:183
+msgid ""
+"You fools! Did you really think we would let your little insult go "
+"unpunished?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:188
+msgid "Oh no, that's all we need! Now there's some orcs blocking our path."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:193
+msgid ""
+"Orcs? They shouldn't be this far south. What's the matter with the border "
+"guard?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:198
+msgid "Who are they? Who's that behind? ... Never mind! Kill the lot of them!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:202
+msgid "I have a plan. Viktor, you'd better recruit some of my horsemen."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:206
+msgid "About time! I could do with some company."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:211
+msgid "You may now recruit horsemen."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:215
+msgid "Thank you. But what do I need them for?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:220
+msgid ""
+"Try to draw the orcs into the open ground, and your horsemen will make short "
+"work of them. I'll take out these northern raiders and catch you up later."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:224
+msgid ""
+"That would not be wise. This appears to be the second wave of the legion, "
+"and it will be much more powerful than the first."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:229
+msgid ""
+"Thank you, old man, but I think my men are more than a match for a few "
+"barbarians."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:234
+msgid ""
+"Sir Denevan, you are without doubt a brave commander, but I must warn you "
+"they are no barbarians. They-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:239
+msgid ""
+"Silence! If you want an audience with the king, old man, don't try my "
+"patience. Viktor, proceed with your orders."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:247
+msgid ""
+"I fear even those orcs will put up a tough fight, especially if we have to "
+"go into the hills."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:251
+msgid ""
+"I don't like the look of this either. Maybe we should take the nearby "
+"villages and gather some reinforcements first."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:255
+msgid "I agree. I just hope we have we have enough time before ... never mind."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:265
+msgid "I think we're getting the upper hand."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:269
+msgid "Then you thought wrongly ... Unleash the second wave!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:320
+msgid "Cut them down!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:324
+msgid "No ... this can't be possible!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:329
+msgid "What are they?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:333
+msgid "Dark riders. We can't hope to beat them."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:337
+msgid "But what about-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:341
+msgid ""
+"If your master if foolish enough to fight, there is nothing we can do. Our "
+"only chance to defeat these orcs before those dark riders reach us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:353
+msgid "Don't stop, Viktor. Get out of here!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:357
+msgid "No! They can't!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:361
+msgid "Viktor, we have to go! They will come after us next."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:375
+msgid ""
+"Beware of Dark Riders. They are not only very powerful but also very fast, "
+"and they can easily attack units one might mistakenly assume are out of "
+"reach."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:390
+msgid "Quick! There is no time to lose."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:399
+msgid ""
+"Sir Denevan was still valiantly fighting the legion as we rode south, but we "
+"both knew there was no doubt of the outcome."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:403
+msgid "Don't stop, Viktor! Get away while you can."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:409
+msgid "Goodbye, my Lord."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:413
+msgid "It's my fault. I know it is."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:421
+msgid ""
+"Go ahead! Run away, as fast as you can! But tell your masters what happens "
+"to those who stand and fight. Let the world know: the great Zharagorn has "
+"returned to reclaim his throne, and nothing in the world can stop him!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:446
+msgid "Look! More Dark Riders are coming from the south! We're trapped!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:5
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:148
+msgid "A Test of Valour"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:188
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:178
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:225
+msgid ""
+"` \n"
+"*@<255,255,255>Objective I:"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:227
+msgid "Defeat 15 units; or"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:231
+msgid "Defeat Muff Morran"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:266
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:243
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:609
+msgid "Death of General Karak"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:320
+msgid ""
+"Knowing Zharagorn's forces were not far behind, we continued south. Finally, "
+"we reached Fort Takrit, an outpost just a few days' ride from Karasov."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:325
+msgid "Halt! Who goes ... oh, it's you, Viktor."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:330
+msgid "Thank goodness it's you, sir! Deuterus, this is General Karak."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:335
+msgid ""
+"Viktor, our only chance of an audience with the King is if a respected "
+"senior officer escorts us. With Sir Denevan lost, we need General Karak on "
+"side."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:340
+msgid ""
+"My Lord, I am Deuterus, the Great Druid of the Northern Forest. We urgently "
+"request you lead us to Council with King Gamaron."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:345
+msgid ""
+"What? That's not possible. In case you haven't heard, the border guard has "
+"been overrun by some invasion force that came out of nowhere. I am holding "
+"this fort until reinforcements arrive, and the King has ordered all forces "
+"in the area to fight under my command."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:350
+msgid "(If he's anything like Sir Denevan, I've got a bad feeling about this.)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:355
+msgid ""
+"Holding this fort is pointless. We may be able to fight the enemy off once "
+"or even twice, but we cannot hold off thousands of fanatics indefintely."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:360
+msgid ""
+"Pardon me, but I am in charge here, not you. And where is Sir Denevan, "
+"Viktor?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:365
+msgid "He ... err ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:370
+msgid "Sir Denevan gave his life to protect us, so that we may reach Karasov."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:375
+msgid ""
+"What??? Then you can make his sacrifice worthwhile and help us fight off "
+"these raiders. That's an order!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:380
+msgid ""
+"Viktor, we have little choice. Our only chance is prove our worth in combat "
+"and hope this can change the general's mind."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:385
+msgid "It seems so. To arms!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:390
+msgid "Look, master! The spoilt brat and bumbling old fool are here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:395
+msgid ""
+"I see, you want to avenge your master's death? So be it! If it's a punch-up "
+"you want, I will make it your last."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:471
+msgid "I don't understand ... the living fighting alongside the dead?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:475
+msgid ""
+"Then there is no doubt this truly is the forces of Zharagorn. His followers "
+"are people seduced by promises of power beyond their wildest dreams - people "
+"from both sides of the grave."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:487
+msgid ""
+"My Lord, I believe there is a reclusive priest nearby who is trained in the "
+"arts of fighting the dead. Maybe there is something here than can help us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:491
+msgid "I hope so. I'll order my men to search the villages."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:503
+msgid "No sign of this priest ... wait a moment, what's this?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:507
+msgid "Holy Water"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:509
+msgid "Using this water will cause every blow you deal to be holy!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:575
+msgid "Well, I think we've done enough to prove our worth to General Karak."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:579
+msgid ""
+"Quite. But we still need to hold off these invaders, or there'll be no "
+"General Karak to take us to the king."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:591
+msgid ""
+"*@<127,127,127>Objective I:\n"
+"<127,127,127>Defeat 15 units; or\n"
+"<127,127,127>Defeat Muff Morran"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:597
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Defeat Jaan Delfris (bonus); or\n"
+"<0,255,0>Hold out until turns end"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:633
+msgid "$units_slain Unit(s) Defeated"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:661
+msgid "Forgive me, Viktor. You truly are a brave and worthy commander."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:665
+msgid "My humble thanks, sir."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:669
+msgid "Who is your companion?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:673
+msgid ""
+"I am Deuterus, Great Druid of the Northern Forest. We urgently seek an "
+"audience with the King so that Zharagorn can be defeated."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:677
+msgid ""
+"Then come with me. Now that reinforcements have arrived, my duty at this "
+"fort is complete. I will see to it personally that you get your meeting."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:681
+msgid "Thank you, my Lord."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:693
+msgid ""
+"This is far as we outlaws can go with you, but please take what we can "
+"spare. Good luck meeting the king."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:701
+msgid "You receive 40 pieces of gold."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:715
+msgid "This is far as we outlaws can go with you. Good luck meeting the king."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:772
+msgid "I see the reinforcements! We are saved."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:776
+msgid ""
+"My Lord, more reinforcements will arrive soon ... and it looks like our foes "
+"are in retreat."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:780
+msgid "Curse you! But we will be back, and when we return, you will all die."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:818
+msgid ""
+"Some help you turned out to be. I lost countless soldiers holding this fort. "
+"You can stay in position!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:822
+msgid "But sir, we must see the King."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:826
+msgid ""
+"That is enough! When you see the King, it shall be when you stand trial for "
+"cowardice and desertion. Arrest these men!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:849
+msgid "But master! You promised we would triumph!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:853
+msgid ""
+"Bah! My apprentice was useless! You won't have such an easy fight against me!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:871
+msgid "This is for Sir Denevan!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:888
+msgid ""
+"I may fall, but when the full force of Zharagorn descends upon your land, I "
+"will see you in hell."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:917
+msgid ""
+"General Karak, sir, we have arrived to hold the fort from further attacks. "
+"More reinforcements are on the way."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:885
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:942
+msgid "Die, you-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:946
+msgid ""
+"Oh no! They've killed General Karak! Now there is no hope of meeting the "
+"king."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:5
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:227
+msgid "The King's Council"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:21
+msgid ""
+"Finally, we reached the gates of Karasov - a city I had not seen for a long "
+"time. But it was a very different city to the one I had last seen. News of "
+"the invasion had reached the city long before we had, and the mood was "
+"fearful, apprehensive, and - to many - already resigned to the fall of the "
+"capital."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:25
+msgid ""
+"Some people stopped us and asked if there was any word from friends in the "
+"Northern Provinces. It seemed that, since the start of the invasion, there "
+"had been no word at all from north of the border."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:29
+msgid ""
+"The only joy in the city came from the accursed cultists, very much alike to "
+"the ones we had fought on our journey. As we passed their infernal temple, "
+"they promised protection to anyone joining them, and death to anyone who "
+"tried to resist. I hoped that once we met King Gamaron, their days would be "
+"numbered."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:33
+msgid ""
+"But I soon discovered the decisive Kings of Eldrian's line were long gone."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:118
+msgid "Grand Marshal Romaniov"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:127
+msgid "Arch-Minister Mavarian"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:136
+msgid "Chief Advisor Jofessan"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:146
+msgid "Councillor Durgan"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:162
+msgid ""
+"Your majesty, I have given the order for our full army to amass on Fort "
+"Tarkit. We may have been caught unprepared, but no army from the north can "
+"possibly defeat our entire force."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:167
+msgid ""
+"This is insane! Do you not remember the legend of Zharagorn? All who rose to "
+"fight him were slain! Do you wish to condemn every soldier of ours to death?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:172
+msgid "Councillor Durgan. What do you have to say on this matter?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:177
+msgid "Uhmm ... err ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:182
+msgid ""
+"Sire, I concur with Jofessan. Fort Takrit is exposed on several flanks and "
+"will be difficult to defend against a large army. If this is indeed the "
+"Legions of Zharagorn, we should retreat to Karasov and fight where our "
+"defences are strongest."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:187
+msgid ""
+"Are you joking? Excellency, if our forces must go ahead with a suicidal "
+"attack, I would rather they fought at Fort Takrit, away from the city. There "
+"will be a slaughter no matter where they fight, and I for one do not wish "
+"our women and children to be included."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:192
+msgid ""
+"Wait ... I believe we have a guest. General Karak, it is a pleasure to see "
+"you again."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:197
+msgid ""
+"Your majesty, it is a privelige to be granted an audience at this busy time."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:202
+msgid ""
+"Karak, what are you doing out of post? You were ordered to remain at Fort "
+"Takrit."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:207
+msgid ""
+"My orders were to hold the fort until reinforcements arrive. They have now "
+"arrived and my orders are complete. Nevertheless, I intend to return to Fort "
+"Takrit tonight. But I pray you grant an audience with Viktor, a young "
+"commander, and an old man named Deuterus."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:220
+msgid ""
+"Young Viktor? I hear you took down a dark sorcerer attacking fort Takrit. "
+"Please accept a small token of my appreciation."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:228
+msgid "You receive 25 pieces of gold."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:244
+msgid ""
+"Young Viktor? I hear you took down the leader of the assault on Fort Takrit. "
+"That must be rewarded."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:252
+msgid "You receive 50 pieces of gold."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:263
+msgid "Deuterus? ... Can it really ... no, that's impossible."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:268
+msgid ""
+"Your majesty, noble councillors, the force invading the land is indeed the "
+"forces of Zharagorn. If we are to prevail, I pray you heed three pieces of "
+"advice."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:273
+msgid ""
+"Why should we waste time listening to the ramblings of this old fool? Does "
+"anyone here even wish to listen?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:278
+msgid "Duh ... err ... ummm ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:283
+msgid "I wish to hear what he has to say."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:288
+msgid "Very well. Proceed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:293
+msgid ""
+"Firstly, we must be prepared to stand and fight. Zharagorn is only at the "
+"strength he is now because too many of the Northern Provinces surrendered "
+"instead of putting up a fight. But Zharagorn can be beaten, and he can be "
+"beaten here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:298
+msgid "Pah! Don't you know the legends?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:303
+msgid ""
+"I do, and legends can be misleading. Secondly, you must not underestimate "
+"their forces. Your only chance is to position your forces in the strongest "
+"defensive positions possible."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:308
+msgid ""
+"I have been in command of the King's armies for ten years, and I will not be "
+"told how to do my job!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:313
+msgid "And the third piece of advice?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:318
+msgid ""
+"You must send a force behind enemy lines and send them to the World's End "
+"mountains."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:323
+msgid "Why is that?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:328
+msgid ""
+"That is where the Black Emerald is located. Destroy the Black Emerald and "
+"Zharagorn's power will be broken."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:333
+msgid ""
+"My lord! This suggestion is ridiculous! It would be suicide to send soldiers "
+"behind enemy lines."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:338
+msgid ""
+"On the contrary, Zharagorn will pack most of his forces into his front line. "
+"A small force behind enemy lines could roam virtually unchecked."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:343
+msgid ""
+"Well, I don't know what makes you think you know so much about Zharagorn, "
+"but even if you do, where am I supposed to find a commander who would "
+"volunteer such a suicidal mission?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:348
+msgid "I will go!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:353
+msgid "I beg your pardon?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:358
+msgid ""
+"I have faith in what this man says. I'm prepared to bank my life on his plan."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:363
+msgid ""
+"Then I say we do this. We have a willing officer, and this could be our only "
+"hope."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:368
+msgid ""
+"And I say we don't! I need every man I can get on the front line, even "
+"arrogant sons of nobles."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:373
+msgid ""
+"And I say we don't. If a mythical circle of powerful druids failed, what "
+"chance do a bunch of untested riders have? And besides, if he got anywhere "
+"near this Black Emerald, Zharagorn will see us as a threat. There won't be a "
+"chance for surrender, there will be annihilation!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:378
+msgid "Err ... err ... ummm ... duhh ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:383
+msgid ""
+"Thank you all. We will discuss your proposal in due course and let you know "
+"when we have reached an agreement."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:388
+msgid ""
+"Oh no. I've seen what happens in these meetings. It will be days before we "
+"hear an answer at the earliest."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:393
+msgid "That is not good. We cannot wait days."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:398
+msgid ""
+"Viktor, perhaps I can be of help. I am returning to the front line tonight. "
+"If you wish, when Zharagorn's front line meets ours, my forces can fight "
+"them until we open a gap in the ranks for you. After than, you'll be on your "
+"own."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:403
+msgid ""
+"This sounds dangerous. Are there any other ways of crossing enemy lines?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:408
+msgid ""
+"An alternative would be to try to go underneath the enemy lines using some "
+"abandoned dwarven tunnels, but there is no knowing what lurks down there "
+"now, and I won't be able to help you."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:413
+msgid ""
+"I'm not sure about that either. Is there any other way to get behind enemy "
+"lines?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:418
+msgid ""
+"The only other option would be to sail round the coast and try to make it up "
+"Blacktop River, but you'd have to hope the creatures who live at the delta "
+"of the river are happy to let you pass. Basically, all three options have "
+"their own dangers."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:424
+msgid "I need to think about this."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:427
+msgid "We should help repel the invasion. Let us break through the front line."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:431
+msgid ""
+"Very well. I only hope we can hold Fort Takrit long enough for you to break "
+"through."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:436
+msgid ""
+"Soon we were riding back to the front line. Victor and General Karak both "
+"looked glum that the King's Council had not been of any help. But secretly, "
+"I was feeling the first flush of hope in a very long time."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:441
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:466
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:491
+msgid ""
+"Viktor had been told, point blank, that any mission behind enemy lines would "
+"mean his death. Viktor volunteered for the mission anyway. The time was not "
+"yet right to explain why this mattered so much, but I now knew for certain "
+"that fate of Suveran depended on him."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:452
+msgid "We'll take the tunnels. The enemy won't be expecting that."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:456
+msgid ""
+"I know a guide who is familiar with those tunnels. I'm sure he'll be pleased "
+"to help you."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:461
+msgid ""
+"General Karak led us to the entrance of the tunnels, then we parted company, "
+"not knowing if we'd see him alive again. Victor still looked glum that the "
+"King's Council had not been of any help. But secretly, I was feeling the "
+"first flush of hope in a very long time."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:477
+msgid "Hopefully the enemy hasn't reached the coast yet. By sea it is."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:481
+msgid ""
+"Your best bet is to travel with Captain Josephine Bates. She knows the delta "
+"of the river better than anyone else."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/04_The_King's_Council.cfg:486
+msgid ""
+"General Karak introduced us to Captain Josephine at the city docks, and as "
+"the ship sailed away, we saw General Karak slip out of view, not knowing if "
+"we'd see him alive again. Victor still looked glum that the King's Council "
+"had not been of any help. But secretly, I was feeling the first flush of "
+"hope in a very long time."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:5
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:303
+msgid "The Front Line"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:254
+msgid "Move Viktor to the marker in the north"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:396
+msgid ""
+"Viktor told his men that only those who wished to accompany him to the "
+"World's End Mountains need follow him, but his forces stuck by him. And so "
+"we found ourselves at Fort Takrit once more."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:401
+msgid "My God. The forces are endless."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:406
+msgid "Alas, even this will not be his full army. There will be more still."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:411
+msgid ""
+"Viktor, I've got word back from the scouts. They say that there is a gap in "
+"the enemy's forces just behind the orcs. Reach there, and you should be able "
+"to get behind enemy lines unnoticed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:416
+msgid "I understand. But what are orcs doing here?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:421
+msgid ""
+"Zharagorn makes deals with all kinds of creatures in return for fighting "
+"hands, though he seldolm keeps his side of the bargain. Doubtless these orcs "
+"were promised something."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:425
+msgid ""
+"I will stay and hold the line as long as I can ... I don't know which way "
+"the battle will go."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:429
+msgid "Thank you ... I just wish there was something we could do in return."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:433
+msgid ""
+"As a matter of fact, there is. Due north from here are the Blacktop "
+"mountains, home to an ancient and noble dwarvish clan. They saved my life "
+"when I was a patrol guard like you. If you can, look out for them."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:442
+msgid ""
+"Praise the mighty Zharagorn! Show no mercy to these fools who dare to oppose "
+"us!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:447
+msgid ""
+"Rise, mighty fallen warriors. Avenge yourselves on the sons of those who "
+"slew you!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:452
+msgid "It is time, my orcish kin! Tomorrow the city of Karasov is ours."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:457
+msgid ""
+"Whatever happens, no regrets. It is a privelige to be part of this quest."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:462
+msgid "I'd better get on horseback if we're to outrun the orcs."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:520
+msgid "Good luck everyone."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:535
+msgid ""
+"On horseback, Deuterus is faster, but he is also weaker in combat than he is "
+"when fighting on foot. Whilst mounted, try not to rely on him too much in "
+"combat."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:655
+msgid "To the east, I see someone has already fought and fallen."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:667
+msgid ""
+"Oh no! It's the local priest. What was he doing fighting the undead single-"
+"handed?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:671
+msgid ""
+"Coming to think of it, how come he was able to fight the undead single-"
+"handed? Maybe I should send someone to check."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:685
+msgid "So this is what made him think he could resist the undead ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:689
+msgid "Holy Amulet"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:691
+msgid "Every blow you deal is now holy!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:724
+msgid ""
+"There's a message here: 'To whoever finds this. I have fled to the south. I "
+"hope this can help you fight off the invaders to our land. Farewell.' "
+"Gratefully received."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:728
+msgid "Potion of Strength"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:731
+msgid "Strength is given to the drinker."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:765
+msgid "At least I'll go down fighting for my people. En garde!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:776
+msgid "I'm sorry, General. We can't hold out much longer."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:791
+msgid "Hurry everyone! Follow me down the northern road."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:795
+msgid "Good luck, Viktor. We're all depending on you."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:803
+msgid ""
+"I joined Viktor, and we rode north as fast as we could. As it turned out, "
+"the enemy did not try to pursue us. So far, Zharagorn was ignoring us, and "
+"that was a good thing."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:807
+msgid ""
+"But things were not looking good on the battlefield we had left behind. As "
+"we fled, we saw heavy reinforcements heading for Fort Takrit. We wondered "
+"how long they could hold out, and then we remembered the General Karak's "
+"last request. As the battle slid out of view, we turned north-east, "
+"wondering if there were any dwarves left in the Blacktop Mountains."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:889
+msgid "Oh no! They've killed General Karak! Now the battle is lost!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:904
+msgid "It's too late! Reinforcements have cut us off!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:5
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:379
+msgid "Beneath Enemy Lines"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:171
+msgid ""
+"*@<255,255,255>Objective I:\n"
+"<0,255,0>Find and remove any enemies in the way of the exit"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:323
+msgid ""
+"Viktor told his forces that only those who wanted to accompany him to the "
+"World's End mountains need follow him, but his forces stuck by him "
+"nonetheless. However, at the moment they were little use. Progress was slow "
+"as they guided their mounts through the darkened tunnels. Viktor dismounted "
+"and scouted ahead with me and our new guide."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:328
+msgid ""
+"This is a gamble. Our mounted forces are unsuited to underground conflict. "
+"If we run into any major force we won't be able to put up a fight."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:333
+msgid ""
+"Well, so far we've encountered nothing. If we continue like this, our "
+"horsemen should be able to pass through unharmed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:338
+msgid "Be careful. There's no knowing what lurks down here now."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:343
+msgid "Well, first thing's first. Let's keep going and hope for the best."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:470
+msgid ""
+"Be very careful using Viktor for combat whilst he is dismounted, for his "
+"combat skills are diminished whilst he is on foot. However, his leadership "
+"skills are unchanged."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:521
+msgid "Somebody's hiding here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:547
+msgid "Who are you ... help us ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:552
+msgid "Durgan, is that you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:557
+msgid "Evacuating our people ... Ambushed by goblins ... Please help ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:562
+msgid "What's happening? Who are you fighting?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:567
+msgid ""
+"This is a disaster. We can't possibly fight off a goblin army down here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:572
+msgid "Not too late ... Other dwarves hiding ... Help us fight back ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:578
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1589
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1718
+msgid "You may now recruit dwarves."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:583
+msgid "Durgan ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:596
+msgid ""
+"*@<255,255,255>Objective I:\n"
+"<0,255,0>Defeat the goblin leader"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:628
+msgid "More intruders? Get them!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:632
+msgid "No you don't. It's time for revenge."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:661
+msgid ""
+"We are evacuating our people from Blacktop mountain. Whoever you are, please "
+"help us fight off these creatures!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:672
+msgid "Hiss!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:676
+msgid ""
+"Beware! In these darkened caves, monsters can come out of nowhere and attack "
+"without warning."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:690
+msgid "No! How can a commander of Zharagorn lose?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:694
+msgid "I knew it. So these creatures are in league with Zharagorn too."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:698
+msgid ""
+"First the undead, now these orcs and goblins. Why are they fighting for "
+"Zharagorn?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:702
+msgid ""
+"Zharagorn makes deals with all kinds of creatures in return for fighting "
+"hands, though he seldolm keeps his side of the bargain. Doubtless these were "
+"promised something. And the orcs and trolls too, it appears."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:713
+msgid "Hadn't we better plan how to get out of here?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:717
+msgid ""
+"With the goblins gone, help us hold out until the rest of the dwarves arrive "
+"and we can keep a corridor open for your men to pass through. But, to be "
+"honest, we would appreciate it if you could help us rid these caves of the "
+"orcs and trolls before then, because we've taken enough losses already."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:721
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:841
+msgid "I say we rid the caves of this scum."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:732
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:778
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:852
+msgid ""
+"*@<127,127,127>Objective I:\n"
+"<127,127,127>Defeat the goblin leader"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:737
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:857
+msgid ""
+"*@<127,127,127>Objective II:\n"
+"<127,127,127>Find the dwarf leader"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:743
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Hold out until turns end; or\n"
+"<0,255,0>Defeat all enemy leaders (bonus)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:755
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:875
+msgid "Death of King Norvisk"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:767
+msgid "Let's find a way out of here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:771
+msgid "The dwarves are probably to the north-west of here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:783
+msgid ""
+"*@<255,255,255>Objective II:\n"
+"<0,255,0>Find the dwarf leader"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:814
+msgid "Who is that?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:818
+msgid "We're friends. We're trying to get through the other way."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:827
+msgid ""
+"We can't get through either way until these goblins are gone. Help us defeat "
+"them, then we can talk."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:837
+msgid ""
+"I see you've defeated the goblins. Help us hold out until the rest of the "
+"dwarves arrive and we can keep a corridor open for your men to pass through. "
+"But, to be honest, we would appreciate it if you could help us rid these "
+"caves of the orcs and trolls before then, because we've taken enough losses "
+"already."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:863
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Hold out until turns end; or\n"
+"<0,255,0>Defeat enemy leaders (bonus)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:899
+msgid ""
+"Reinforcements are coming! Get your men through now. We'll take care of the "
+"orcs and trolls."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:903
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:971
+msgid "Where does this tunnel lead?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:907
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:975
+msgid ""
+"It leads to Blacktop Mountain, where I was King. We were attacked and had to "
+"evacuate, and ran into more trouble here. We would have taken heavy losses "
+"without your help."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:911
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:979
+msgid "If Blackwater Mountain has fallen, is it safe to go that way?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:915
+msgid ""
+"My son stayed behind with a rearguard to give the rest of us time to "
+"escape ... I think there's still time to help him."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:919
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:987
+msgid "We will. It's the least we can do."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:923
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:991
+msgid "We'll show them they've messed with the wrong dwarves!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:945
+msgid ""
+"Oh no! We've taken too long. Our horsemen have been attacked from behind!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:967
+msgid ""
+"Thank you for helping us, but there is no time to lose. The sooner you can "
+"get down the tunnel to the north-west, the better."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:983
+msgid ""
+"My son stayed behind with a rearguard to give the rest of us time to escape. "
+"I think there's still time to help him."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:1030
+msgid "No! I must defend my people!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:1034
+msgid "We needed him to secure the tunnel. Now we're trapped!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:455
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:5
+msgid "The Forgotten Front"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:188
+msgid ""
+"Viktor told his soldiers that only those who wished to needed to accompany "
+"him to the World's End mountains, but his forces stuck by him nonetheless. "
+"For the time being, however, all were at the mercy of the ship. Sailing "
+"along the coast was a fraught business, for if the ship was lost, all was "
+"lost. The estuary of Blacktop River was notorious for its treacherous rocks, "
+"and because of this, a centuries-old lighthouse stood by the mouth of the "
+"river."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:191
+msgid ""
+"But the familiar glow of the lighthouse was nowhere to be seen. As we "
+"approached the river, a thick mist descended on land and sea. Knowing it "
+"would be suicide to attempt to sail up the river in these conditions Captain "
+"Josephine used her skill to bring a boat ashore with a small party on board. "
+"With no sign of the mist abating, out only hope was to get the lighthouse "
+"running again ... if there was still a lighthouse."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:319
+msgid ""
+"*@<255,255,255>Objective I:\n"
+"<0,255,0>Take the keep to the north"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:331
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:923
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1097
+msgid "Death of Captain Josephine"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:512
+msgid ""
+"Phew! That was a cramped boat trip. I hope there's enough of us here to "
+"fight off anyone who attacks us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:516
+msgid "What are we looking for?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:521
+msgid ""
+"We need to find the mermen. They maintain the lighthouse. Tracking them down "
+"shouldn't be too hard, but getting their co-operation might be tricky."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:526
+msgid ""
+"I don't see the problem. The mermen have a long history of friendship with "
+"the kingdom of Suveran."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:531
+msgid "That is what is widely believed. Unfortunately-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:547
+msgid "What do you want?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:552
+msgid ""
+"Noble merman, I am on a quest from King Eldrian. We urgently need the "
+"lighthouse back in action."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:557
+msgid ""
+"The lighthouse? Why should we? I will not allow another drop of merman blood "
+"to be spilt for your king!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:561
+msgid "I don't understand."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:565
+msgid ""
+"Oh, you do. You so-called allies, for generations you have pushed us back "
+"into the land you don't want. Even then, you make us run the lighthouse for "
+"the privilege of staying on our own land. Well, enough is enough!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:569
+msgid "Wait a moment. What did you mean by spilt merman blood?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:573
+msgid ""
+"Hah! They came for us, and you sat by and did nothing. Once more, you only "
+"come to help now you want something from us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:577
+msgid "Please. What are your troubles? Perhaps we can help you."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:581
+msgid ""
+"All right. If you really want to know ... The naga scum have taken the "
+"northern fort. Our forces are broken and leaderless. The swamp is out of "
+"control and creatures are running amok. And strange men have been promising "
+"our death if we do not pledge allegience to them. But ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:585
+msgid "This is a problem for the mermen!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:589
+msgid "Perhaps I can be of assistance."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:619
+msgid ""
+"Deuterus? ... It is you. But you ... it's been so long and ... surely by now "
+"you ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:623
+msgid ""
+"Gwamola, your merman have fought with great courage, whilst greater kingdoms "
+"have cowered and surrendered. But the armies of Suveran cannot come to your "
+"aid for they are fighting for their own survival as we speak."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:627
+msgid "Of course, Deuterus. I understand."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:631
+msgid ""
+"Our only hope is for us to continue our journey to defeat out mutual enemy "
+"at its source. Viktor is a brave and skilled commander, and with your help "
+"we can reclaim the swamp together."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:635
+msgid ""
+"So be it! Rise and fight, my fellow mermen. Let us punish all these invaders "
+"for their crimes!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:684
+msgid ""
+"Deuterus, if forces of Zharagorn appear, will the fight the nagas or side "
+"with them?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:688
+msgid ""
+"I fear they will side with the nagas. Zharagorn makes deals with all kinds "
+"of creatures in return for fighting hands, though he seldolm keeps his side "
+"of the bargain."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:692
+msgid ""
+"Viktor, we must only take the keep if and when we are sure we can hold it. "
+"If the enemy re-takes it, they will surely destroy the lighthouse before "
+"they lose it again."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:727
+msgid "Master, we need backup! The mermen have brought allies with them."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:731
+msgid ""
+"Gah! I knew it was a mistake to trust the likes of you with this task. Stand "
+"aside for someone more reliable!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:817
+msgid "Zharagorn commands you to surrender your fortress to me."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:821
+msgid ""
+"Hey! We had a deal! You said this was ours to keep when we'd driven the "
+"merman away."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:825
+msgid "So you dare to defy Zharagorn?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:829
+msgid "Wait a minute, I didn't mean-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:833
+msgid ""
+"It's too late for that. Now you shall learn what happens to traitors! Kill "
+"them all, humans, mermen, nagas!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:859
+msgid "We've done it. We have driven the invaders off the keep."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:863
+msgid "Excellent. Now can we get this lighthouse fixed?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:871
+msgid ""
+"Hmm ... It looks like the nagas have only vandalised the lighthouse. We "
+"should be able to get it up and running in a day."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:875
+msgid "Then we can sail up river?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:879
+msgid ""
+"Yes, once the lighthouse is fixed, you can leave any time. But if you could "
+"stay here for a while and help us fight off these creatures, we would "
+"appreciate it."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:883
+msgid "We've got a day to think about it."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1013
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1336
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:906
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1074
+msgid ""
+"*@<127,127,127>Objective I:\n"
+"<127,127,127>Take the northern keep"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:911
+msgid ""
+"*@<255,255,255>Objective II:\n"
+"<0,255,0>Hold the northern keep for six turns (turn $lighton)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:927
+msgid "Enemy re-takes northern keep"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:955
+msgid ""
+"Viktor, I saw some Nagas in a village to the east of this fort, like they "
+"were looking for something. But they squabbled and left empty-handed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:959
+msgid "Interesting. I wonder what they were after?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:974
+msgid "No wonder the nagas left empty-handed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:987
+msgid "Rune Sword"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:990
+msgid ""
+"This rare sword is carved with intricate runes. Little use to the normal "
+"fighter, in the hands of an accomplished mage it channels magical energy to "
+"form a formidable weapon."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:991
+msgid "Only a veteran of arcane arts can wield this sword."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:999
+msgid "Excellent! Can't wait to try this out!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1008
+msgid "rune sword"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1046
+msgid ""
+"We have repaired the lighthouse! Here comes the ship! Viktor, any time you "
+"wish to sail up the river, go to the lighthouse where it is safe to board."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1079
+msgid ""
+"*@<127,127,127>Objective II:\n"
+"<127,127,127>Hold the northern keep for six turns (turn $lighton)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1085
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Move Viktor to the lighthouse\n"
+"<0,255,0>Defeat all enemy leaders (bonus)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1132
+msgid ""
+"We cannot continue fighting here. Let us continue our voyage whilst we still "
+"have the time."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1140
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1181
+msgid ""
+"Sir, we wish to accompany you along the river. We do not know what is "
+"upstream, and you may need our help."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1152
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1185
+msgid "You're welcome. Onwards!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1173
+msgid ""
+"Victory is ours! Noble merfolk, the swamp is yours again. Now we must "
+"continue our voyage."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1231
+msgid "Oh no, they've re-taken the keep! Now the lighthouse will be destroyed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1258
+msgid "All is lost. No-one else can navigate the river."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1272
+msgid "It's too late! Reinforcements have sealed off the river."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:5
+msgid "The Dwarf and the Lich"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:243
+msgid ""
+"*@<255,255,255>Objective I:\n"
+"<0,255,0>Hold out for two days (12 turns)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:194
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:722
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1092
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:144
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:255
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:807
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1030
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1359
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1395
+msgid "Death of Prince Sven"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:634
+msgid ""
+"We rode to Blacktop Mountain, but found that the orcs had got there first."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:638
+msgid ""
+"I fear we're too late. If the orcs have taken the mountain, there will be no-"
+"one left to save."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:643
+msgid "Wait! I can see dwarves, still fighting."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:648
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:994
+msgid ""
+"Whoever you are, please help us! We are desperately trying to hold out until "
+"the last of our people can be evacuated into the caves below."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:652
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:705
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:998
+msgid "Just one more push! Soon the dwarvish scum will be no more."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:656
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1002
+msgid ""
+"Viktor, we must save these dwarves. Their help will be invaluable when we "
+"reach the World's End mountains."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:660
+msgid "Agreed. Besides, we should keep the promise we made General Karak."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:664
+msgid "So be it! Prepare for battle once more!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:681
+msgid ""
+"Sensing there was little time, Viktor sped on ahead of the rest of his "
+"forces."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:685
+msgid ""
+"I am trying to hold the mountain whilst we evacuate the last of our people. "
+"Who are you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:689
+msgid "I am Viktor, a patrol guard of Suveran. I-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:693
+msgid "Never mind. That can wait. Have you brought reinforcements?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:697
+msgid "Yes but ... they're not here yet."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:701
+msgid "Well I hope they're here soon, because we can't hold out much longer."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:725
+msgid ""
+"Unknown to us, the enemy was already upstream. Viktor and I barely had time "
+"to disembark before seeing an orc camp in front of us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:729
+msgid "Where did all those orcs come from?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:734
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:924
+msgid "Who are they? Guards, quickly!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:771
+msgid ""
+"Our soldiers are still inside the boat, unready for battle. Look at all "
+"those trolls to the south! We can't fight them all."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:776
+msgid ""
+"Wait ... we have one chance. The northern keep is still poorly guarded. I "
+"suggest we take out the orc leader before he has time to call any more "
+"reinforcements. Then we can rally our own forces."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:780
+msgid "Agreed. But what are these orcs doing here?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:784
+msgid "I don't know. Let's take the keep first and worry about that later."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:788
+msgid "We can hold the river if you need us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:795
+msgid ""
+"*@<255,255,255>Objective I:\n"
+"<0,255,0>Take the northern keep"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:836
+msgid "Viktor, what is happening ... oh dear, this is not good."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:840
+msgid "What if we lose this fight? Should we retreat down the trapdoor?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:844
+msgid ""
+"No, we must save these dwarves. Their help will be invaluable on our journey "
+"to the World's End mountains."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:869
+msgid "Viktor, the rest of the dwarves are almost here. Get back to the keep!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:898
+msgid ""
+"At last. The rest of the dwarves have arrived. Now the battle really begins."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:969
+msgid "No! Destroy the camp! Don't let them use it!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:986
+msgid "Damn. They've torn down half the encampment. Now what?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1006
+msgid "All right. Let's push on with what we've got."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1018
+msgid ""
+"*@<255,255,255>Objective II:\n"
+"<0,255,0>Hold out for two days (turn 12)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1070
+msgid ""
+"We are evacutaing our people through this trapdoor. I must stay here and "
+"guard it."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1081
+msgid "Thank you for coming to our aid. We just need one more day."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1085
+msgid ""
+"So, the dwarvish scum brought along some friends? Two can play at that game!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1094
+msgid "Your majesty, I see reinforcements headed for the orcish camps!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1098
+msgid "We'd better fall back and regroup. They will be difficult to hold off."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1148
+msgid "We've done it! The last of my people have escaped!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1152
+msgid "This is not over. Wait until Zharagorn hears of this!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1156
+msgid "So, these orcs have joined Zharagorn's ranks too."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1160
+msgid "You've messed with the wrong orcs! Zharagorn will be angry."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1180
+msgid "You are correct. Zharagorn is very angry indeed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1184
+msgid "Y-y-y-your excellency, I-I did not know you were here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1188
+msgid "Silence! Give me the keep!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1192
+msgid "O-Of course, my lord."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1310
+msgid "Who is he?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1314
+msgid ""
+"Mal-Margheera - Zharagorn's right-hand man. Listen, I must fight him "
+"personally."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1318
+msgid "But-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1322
+msgid "No time to explain. Cover me."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1341
+msgid ""
+"*@<127,127,127>Objective II:\n"
+"<127,127,127>Hold out for two days (turn 12)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1347
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1383
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Attack Mal-Margheera with Deuterus; or\n"
+"<0,255,0>Defeat Mal-Margheera with any other unit"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1363
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1399
+msgid "Orcs kill Mal-Margheera"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1377
+msgid ""
+"*@<127,127,127>Objective I:\n"
+"<127,127,127>Hold out for two days (turn 12)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1447
+msgid "No, master! What are you doing?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1451
+msgid "This is how Zharagorn rewards failure!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1465
+msgid ""
+"I fear you not, for I know your true name, Lord Teorran. By the might of the "
+"wind, the the strength of the water and the power of the earth - BEGONE!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1493
+msgid "What happened?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1501
+msgid ""
+"An ancient ritual. I banished him. Look, the remaining orcs are retreating."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1510
+msgid "This lich ... is he gone?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1514
+msgid ""
+"I'm afraid not. Zharagorn can recall him, and that ritual will not work "
+"again."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1518
+msgid "Strangers, I cannot thank you enough. How can I ever repay you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1522
+msgid "Could you help us get to the World's End Mountains?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1526
+msgid "The World's End Mountains? Are you crazy?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1530
+msgid "It is our only hope of stopping the forces of Zharagorn."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1534
+msgid ""
+"Few have ever journeyed to the World's End Mountains and live to tell the "
+"tale ... but it seems that your quest is our only hope. We will join you. I "
+"will place my fighters under your command."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1567
+msgid "loyal"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1568
+msgid "zero upkeep"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1603
+msgid "You may now recruit dwarvish guardsmen."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1623
+msgid "Sorry we're late. Did we miss anything?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1729
+msgid ""
+"This is as far as we can go with you. Now we must return to reclaim our "
+"homeland. Good luck on your journey."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1762
+msgid "So ... you still stalk the earth?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1766
+msgid "You???"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1782
+msgid "Ha! Ha! Old man, prepare to meet your- ... You???"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1800
+msgid ""
+"Deuterus, this lich is protected by something. I can't deliver the killing "
+"blow."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1804
+msgid "Let me invoke the ritual."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1808
+msgid "Deuterus? ... You???"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1824
+msgid "Hooray! The orcs have done the job for us!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1828
+msgid ""
+"No. This is a disaster. This triumph of theirs will cause all orcs from "
+"miles around to descend on these mountains. We're done for!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1859
+msgid "No! It can't end like this!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1863
+msgid "The city is ours! Kill every dwarf you see!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1877
+msgid "Undead reinforcements have arrived! We're doomed!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:5
+msgid "Ancient Friends"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:132
+msgid "Defeat both enemy leaders"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:148
+msgid "Death of Arawn-Myegon"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:182
+msgid ""
+"Having crossed the enemy lines, there was surpisingly little resistance on "
+"the other side. However, I feared this would not last."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:186
+msgid ""
+"This is the great Forest of Shamoran. It will be safe to stop and rest here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:191
+msgid ""
+"I wouldn't mind a break. It's all very well you lot riding on horseback, but "
+"we have to follow on foot."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:196
+msgid ""
+"Yes ... (pant) ... I'm used to sailing, not walking over land. I must learn "
+"to ride one of these days."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:201
+msgid ""
+"Very well, we shall rest. There is just one thing I have been wondering. "
+"Deuterus, who was that lich you fought at Blacktop Mountain?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:206
+msgid ""
+"Mal-Margheera, formerly known as Lord Teorran, born even before Zharagorn. "
+"Son of one of the greatest commanders Suveran ever knew, only to turn to the "
+"dark arts. It was only when he joined Zharagorn's legions that the dead "
+"swelled the ranks."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:210
+msgid "But there is something I don't understand. How did he recognise you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:214
+msgid ""
+"It's a long story. Suffice to say, we have met and fought before. What's "
+"important is that we keep moving before he comes after us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:218
+msgid "If that's the case, perhaps we should keep moving now and rest later."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:222
+msgid ""
+"No. We must rest with people we can trust. There is no telling who has "
+"escaped the Legions of Zharagorn, and who has surrendered and is now "
+"collaborating. If we don't rest here, we may not have another chance."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:226
+msgid "But I can't see anyone. Who's here who we're supposed to trust?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:230
+msgid ""
+"Ancient friends. A race who would never surrender to the forces of darkness. "
+"But I must meet them alone. Stay here. I will signal if I need you."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:265
+msgid "Who dares disturb the Forest of Shamoran?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:269
+msgid "Old friend, it is I, Deuterus."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:273
+msgid "So it is. We foresaw your coming."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:277
+msgid "We need food and shelter for our journey. I trust you can help us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:281
+msgid ""
+"The mighty Deuterus. Never there was a truer friend of the trees of "
+"Shamoran. And yet, on this day, your presence is unwelcome."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:285
+msgid "I don't understand. We've always been friends before."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:289
+msgid "It is not you. It it those you have brought to us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:293
+msgid ""
+"These men and dwarves? Fear not, they are with me, and they will do no harm."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:297
+msgid "That is not who I mean. I mean ... them."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:301
+msgid "Who else do you mean? ... Oh no."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:306
+msgid "They are here! Heading for the woods, just as Mal-Margheera predicted."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:310
+msgid "Yee-hee-hee! We'll burn them out!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:314
+msgid "I'm sorry ... I did not think they find us so quickly."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:318
+msgid ""
+"This is not the time to discuss who is at fault. We must fight the enemy "
+"together."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:322
+msgid "I think Deuterus is signalling for help. Prepare for battle!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:347
+msgid ""
+"Arise, mighty tree-folk. Let us show what happens to those who tamper with "
+"the forces of nature."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:485
+msgid "Victory is ours!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:489
+msgid "It is indeed. But the wose don't look too happy we came here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:493
+msgid ""
+"Arawn-Myegon, I am sorry that you got involved in this. If you wish us to "
+"leave, we will understand."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:497
+msgid ""
+"The mighty Deuterus. On this day, you have brought death and destruction to "
+"our people ... And yet, we are ancient friends."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:501
+msgid "Does this mean we can stay?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:505
+msgid ""
+"We will allow you to rest in our forest. We will provide your men and your "
+"horses all the food and supplies nature can provide. But you must not remain "
+"here a moment longer than you need to. They will come looking for you. You "
+"know of what I speak."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:535
+msgid ""
+"We have failed. Even if we beat our enemies, we now have no means of resting."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:549
+msgid ""
+"We've taken too long. By the time we have rested, the enemy will be upon us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:5
+msgid "The Calm before the Storm"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:138
+msgid ""
+"For several days we rested. It was good to be back amongst friends I had not "
+"seen for a very long time, and I was almost able to forget all my troubles. "
+"Outside the forest, the dark legions were laying Suveran to waste, and a "
+"perilous journey still lay ahead of us, but here, things were calm."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:142
+msgid ""
+"Finally, one night, Viktor took leave to join a patrol on the lookout for "
+"further invaders. I took the opportunity to share my thoughts with that of "
+"my old friend."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:146
+msgid ""
+"Arawn-Myegon, do you think I have chosen correctly? What if I am mistaken "
+"and he is not the one we seek?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:150
+msgid ""
+"From what I have seen of him, I believe you have chosen wisely. But the time "
+"is not yet right. He is indeed a brave warrior and commander, but I sense "
+"fear deep inside him. If we were to tell the truth now, he would believe it "
+"no more than the next man."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:154
+msgid ""
+"That is what I am worried about. There are hundreds of battle-hardened "
+"veterans out there who would have gladly risen to the challenge, and I chose "
+"a youth who had never seen a day's battle in his life. Can he really be "
+"ready for what lies ahead?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:158
+msgid ""
+"You know bravery alone is not enough. Look at Viktor's commander - brave and "
+"noble, but lacking in wisdom to the cost of his life. No, Viktor is our only "
+"hope, and you know you are right."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:162
+msgid ""
+"But you still seem uncertain yourself. You say nothing, but you seem "
+"concerned about the future."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:166
+msgid ""
+"The message from the stars is uncomfortable. All that has been predicted so "
+"far has come true: the return of the unstoppable legion; the awakening of "
+"the ancient one; the battle in our homeland; the coming of the hero."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:170
+msgid "And what does the future hold?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:174
+msgid ""
+"It seems that the journey that lies ahead will be dark and difficult. "
+"Friends will turn foe, and foes will turn friend. The end of the your path "
+"shall not be where it seems. And ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:178
+msgid "What?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:182
+msgid ""
+"The messages given by the stars are ambiguous. Even the most ancient Wose "
+"such as I have been known to make the wrong interpretation in the past. "
+"But ... if the message is correct ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:186
+msgid ""
+"If you are to reach the World's End Mountains, somebody must pay the price. "
+"One of you shall not make it, and the other must continue alone ... I was "
+"hoping to keep this to myself, but something tells me you must know ... "
+"Remember, I could be wrong."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:190
+msgid "We shall see. All that's important is ... Viktor?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:216
+msgid "Deuterus! We have to go. Now!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:220
+msgid "Why? Whatever has happened?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:231
+msgid ""
+"I've seen an enemy camp just half a day's ride from here. They're surely "
+"coming for us!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:235
+msgid "In that case, we'd better get moving."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:239
+msgid ""
+"But that's not all. The camp is teeming with dark riders. We wouldn't have a "
+"hope in hell holding them off."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:243
+msgid "Those dark riders will catch us up. Is there any way we can lose them?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:247
+msgid ""
+"You must ride through the Hyandian Moutains through Anzar's pass. Then you "
+"can block the pass with a landslip which will buy you enough time to escape."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:251
+msgid ""
+"What about us? You humans might be able to get away on horseback, but we "
+"dwarves can't ride that fast."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:255
+msgid ""
+"Prince Sven, you must split from Viktor's forces and lead the dwarves under "
+"the mountains. On the northern side of the mountains is the abandoned Temple "
+"of Tsorias. Find the temple, and you can rendezvous there."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:259
+msgid "I will go with you through the caves. I'd only slow the riders down."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:266
+msgid "We'll have to split the gold between us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:271
+msgid "But how much shall the dwarves have?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:274
+msgid "100 gold."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:285
+msgid "150 gold."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:295
+msgid "200 gold."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:305
+msgid "250 gold."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:315
+msgid "300 gold."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:330
+msgid ""
+"We cannot come with you, for we are bound to this forest. But remember, when "
+"the time comes, call on the trees and they will come to your aid."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:334
+msgid ""
+"And so, with Viktor leading his forces one way, and Preince Sven leading his "
+"forces the other, we left the haven of the forest. As I rode towards the "
+"pass, I wondered just how difficult the journey ahead would be, and whether "
+"one of us was indeed doomed to fall."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:5
+msgid "Race Against Time"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:142
+msgid "Move Viktor to the end of the road"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:146
+msgid "Defeat Haathan Avery (bonus)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:158
+msgid "Either objective achieved when Viktor or Deuterus south of lava chasm"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:166
+msgid ""
+"Any unit left south of the lava chasm when objective is \n"
+"achieved will be lost (including those on recall list)."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:275
+msgid ""
+"With speed of the essence, I joined the others on horseback. Soon Anzar's "
+"pass came into view."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:279
+msgid "They're catching us up! How close are we to the summit?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:283
+msgid ""
+"It had better be soon. If the scouts are right, there's far too many of them "
+"for us to fight."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:287
+msgid ""
+"Fear not. We're approaching the summit now. Just a little further and I can "
+"block them off with ... oh no."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:291
+msgid ""
+"My, my, this is an unexpected pleasure. I had not expected you to still be "
+"around, Deuterus."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:295
+msgid ""
+"That is Haathan Avery, a rogue mage who rebelled from Zharagorn's forces. "
+"Some say that after Zharagorn withdrew, he entered a deep slumber to bide "
+"his time. Looks like those stories are true."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:299
+msgid "A rebel from Zharagorn's army? Can we get him on our side?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:303
+msgid "In principle, a good idea. Unfortunately ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:307
+msgid "Unfortunately, I have unimaginable power to rival even Zharagorn's."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:338
+msgid ""
+"I have no need for petty alliances. When my daemons kill you, the mighty "
+"Zharagorn will understand who's boss."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:342
+msgid "Hurry! We've got to get that lava chasm or we're doomed!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:650
+msgid ""
+"Just a moment ... where's his keep? Surely he's not going to fight us single-"
+"handed?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:654
+msgid "Mighty daemon-folk, I pledge to you the souls of these mortals."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:696
+msgid "Does that answer your question?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:700
+msgid ""
+"Viktor, Daemons are most vulnerable when they are materialising. A single "
+"hit now will save a tough fight later."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:805
+msgid "What's happening?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:809
+msgid "The ground is collapsing beneath us!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:813
+msgid "It's collapsing everywhere! What can we do?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:817
+msgid ""
+"Very little. Anyone who falls into the lava will take damage. If they do not "
+"escape at the first opportunity they will surely die."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:886
+msgid "At last! Now we have you!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:890
+msgid "More souls for my daemons? Be my guest!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:894
+msgid "Die, traitor! And death to you too, Deuterus."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1035
+msgid "No! They're getting away!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1043
+msgid ""
+"Do you think you can run from us? All the Northern Provinces now belong to "
+"Zharagorn. We will hunt you down, Deuterus, and next time, you will die!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1135
+msgid "Not yet, Viktor! Wait for me!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1147
+msgid ""
+"Wait! Some of our units are still south of the chasm. Are you sure you want "
+"to leave them behind?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1152
+msgid "This is a difficult decision."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1155
+msgid "Let us not leave a comrade behind. We won't go yet!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1159
+msgid "I hope they can make it."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1165
+msgid "Alas! We cannot wait a moment longer."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1169
+msgid "Let us hope they sell their lives dearly."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1185
+msgid ""
+"All units accounted for! Pity we don't have time to deal with this Haathan "
+"Avery, but at least he'll hold off the Dark Riders."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1207
+msgid "No! I cannot die now!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1244
+msgid "You fool! You've trapped me south of the lava!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1266
+msgid "Oh no! I'm trapped south of the lava. I'm doomed!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1282
+msgid "I found some scrolls on his body. Perhaps we can use them later."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1286
+msgid "Who knows? I'll study them later when I have the time."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1300
+msgid ""
+"Oh dear! The last of the lava chasm has collapsed. We've left behind good "
+"soldiers."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1313
+msgid ""
+"Excellent! The last of the lava chasm has collapsed, and we're all on the "
+"north side!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:1327
+msgid "Oh no! The last of the lava chasm has collapsed! We're trapped!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:5
+msgid "The Mines of Alsok"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:158
+msgid "This bridge has only been cut. We can fix it."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:178
+msgid "This bridge has fallen down the chasm. It's gone for good."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:190
+msgid "Find the dwarvern keep"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:496
+msgid "Meanwhile, Prince Sven led the dwarves underneath the mountains."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:500
+msgid ""
+"I don't like this. The dwarves who mine at Alsok were renowned for their "
+"hospitality. Why has no-one greeted us?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:504
+msgid "No! Not the Alsok dwarves too?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:508
+msgid ""
+"This is bad. Whoever's done this to the Alsok inhabitants will probably want "
+"to do the same to us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:512
+msgid ""
+"My Lord! I can hear voices echoing behind us! It seems Zharagorn has sent "
+"men to pursue us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:516
+msgid ""
+"They sound close. We can't spend too long rallying our forces here. But "
+"there's no knowing how much danger is ahead."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:520
+msgid ""
+"If my memory serves me correctly, there is a dwarvern fort not far from "
+"here. We can rally the bulk of our forces there."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:535
+msgid "What's that? I heard someone!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:556
+msgid "All right, you found me. But I will sell my life dearly!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:560
+msgid "Golran?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:564
+msgid "Prince Sven? Sorry, I thought ... What are you doing here?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:568
+msgid ""
+"I am on a quest with some riders of Suveran. It is our only hope against the "
+"Legions of Zharagorn."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:572
+msgid "The legions of who?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:576
+msgid ""
+"Surely you must know about ... Are you saying you haven't heard about it?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:580
+msgid ""
+"We lost contact with the outside world a few days ago when the messengers "
+"stopped coming. This Zharagorn is the least of our problems, whoever he is."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:584
+msgid ""
+"Wait a second ... if you're not fighting Zharagorn, who did this to you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:588
+msgid ""
+"The notrious cut-throat Gulsor attacked us from the west. He's never dared "
+"attack us this deep in the mines before, but this time, something seemed to "
+"be driving him onwards."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:593
+msgid "You've fought him off before. Did something go wrong this time?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:597
+msgid ""
+"Just as we were rallying to attack, an undead army attacked from the east. "
+"We'd heard legends that there was a warrior called Xerxis waiting to be "
+"reawoken ... well, it must be true."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:601
+msgid "I bring fresh forces with me. Can we help you drive them off?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:605
+msgid ""
+"It's too late for that. Lord Alsok thought he could fight off both forces at "
+"once. He split us in two. But then ... all I know is that the survivors "
+"spoke of strange beasts that came out of thin air who tore men and dwarves "
+"in two and engulfed the living and dead in flames. I was ordered to retreat "
+"and tend to the wounded. I fear the worst for the rest."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:609
+msgid "Shh! I hear something! Far away."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:613
+msgid "Wait! I think they're back."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:621
+msgid ""
+"This is it! Set up here, and anyone taking refuge from Zharagorn is ours."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:625
+msgid ""
+"Oh, to rise again! For centuries I have waited for the sound of slaughter, "
+"and at long last it is here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:629
+msgid ""
+"We'll be lucky to get through here in one piece. We've got to reach the "
+"Temple of Tsorias quickly."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:633
+msgid ""
+"There's an exit to the temple north of here. But there is a chasm in the "
+"way. We thought cutting the bridges would slow down the enemies, but they "
+"didn't. I hope we can get those bridges back up, or we're doomed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:702
+msgid ""
+"Your majesty, we must recall every veteran fighter we can. I fear anyone we "
+"leave behind won't make it."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:706
+msgid "Get ready, brothers. This is going to be a tough fight."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:713
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1078
+msgid ""
+"*@<127,127,127>Objective I:\n"
+"<127,127,127>Find the dwarvern keep"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:718
+msgid ""
+"*@<255,255,255>Objective II:\n"
+"<0,255,0>Find the northern exit"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:944
+msgid "They're back. The creatures that were materialising here!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:948
+msgid "Whatever they are, let's hope they go for the bandits and undead."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1029
+msgid "So, the filthy dwarves camped here. They can't be far now."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1033
+msgid "Whatever this legion of Zharagorn is, I don't want to face them."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1037
+msgid "Hurry. We don't have much time."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1050
+msgid "It won't open! We're trapped!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1054
+msgid ""
+"I don't understand. The priests of Tsorias always kept the passage open."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1058
+msgid "Then let us take as many of our foes as we can to the gods with us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1062
+msgid ""
+"Wait ... there is one last hope. If we can get everyone over the bridge, we "
+"can cut the ropes. That might give us enough time to open this door."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1066
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1204
+msgid "I hope you're right."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1083
+msgid ""
+"*@<127,127,127>Objective II:\n"
+"<127,127,127>Find the northern exit"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1088
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Cut the ropes to the bridge (move any dwarf to the marker)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1099
+msgid ""
+"Any unit left west of the bridge when ropes are cut will be lost (including "
+"those on the recall list)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1111
+msgid "Now, can we get this door open?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1115
+msgid ""
+"Oh no! It's still jammed. There's something on the other side blocking the "
+"doorway."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1119
+msgid "Now what?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1123
+msgid ""
+"There's nothing more we can do. Only someone on the other side can open this "
+"door. Come on Viktor, where are you?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1179
+msgid "Don't cut the bridge yet! I have to cross!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1192
+msgid "I can cut the ropes, but not all of our troops are safe."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1197
+msgid "I must think about this."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1200
+msgid "Not just yet. Give them time to make it."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1210
+msgid "It's too late. Cut the ropes!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1214
+msgid "Punish these invaders for me, brothers."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1230
+msgid "We're all across. Let's cut the ropes!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1234
+msgid ""
+"Excellent! With all our enemies fighting amongst themselves, we should be "
+"safe for some time."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:1253
+msgid "We have taken too long. It's too late to rejoin Viktor's forces."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:5
+msgid "Prejudice and Pride"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:180
+msgid "Head towards temple until further notice"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:351
+msgid ""
+"I had not reckoned on a fight with Haathan Avery and his daemons. Viktor and "
+"I arrived on the northern side of the mountain with a flagging force."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:355
+msgid ""
+"We had to leave behind much of our equipment on the mountain. Until we can "
+"rest and recoup, we won't be able to recruit new fighters."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:359
+msgid ""
+"We certainly can't rest here. Those dark riders who pursued us will get "
+"though Anbar's pass sooner or later, and this is straight in their path."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:363
+msgid ""
+"All right then. Let's get to this Temple of Tsorias, find the dwarves, and "
+"get out of here."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:367
+msgid "Isn't there some old legend attached to this temple?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:371
+msgid ""
+"Many centuries ago, the temple was built in commemoration of a famous "
+"battle. However, whilst the priests who guarded the temple grew humble and "
+"peace-loving, the creatures driven off the land have borne a grudge ever "
+"since."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:375
+msgid "Did these humble priests wear big wings and breathe fire?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:379
+msgid "We could have a problem ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:383
+msgid ""
+"Rejoice, my children! Those cowardly priests have fled, and our ancient home "
+"belongs to us once more!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:387
+msgid "We can't afford another fight. We're weak enough as it is."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:391
+msgid ""
+"Drakes are proud creatures, but they are hugely distrustful of all other "
+"races. It will not be easy to get them on side."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:395
+msgid "Your majesty, esteemed leader of the ancient and noble civilisation of-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:399
+msgid "Save your grovelling! What do you want?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:403
+msgid ""
+"We come in peace. All we ask is safe passage to the Temple of Tsorias, so-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:407
+msgid ""
+"What kind of fools do you take us for? We know of the tunnels underneath the "
+"temple. That is why we blocked the exit!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:411
+msgid ""
+"Your highness, dark forces stalk the lands and we cannot fight amongst "
+"themselves. I implore you, please allow us-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:415
+msgid "Enough! You are trespassing on our land. Turn back, or die!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:419
+msgid "Shouldn't that be 'Turn back and die'?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:423
+msgid ""
+"There must be a way of resolving this peacefully somehow. We must avoid "
+"bloodshed if at all possible."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:427
+msgid ""
+"Whatever happens, we have to move, for the dark riders will be coming soon. "
+"Let's start by heading towards this temple."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:447
+msgid "No! Every child of mine you strike down shall be avenged tenfold!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:489
+msgid "They're coming!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:493
+msgid "A weakened force, but still too strong for us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:534
+msgid "Found you! And this time, you can't escape."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:572
+msgid "Ha! Ha! Now you are trapped! I'm going to enjoy this."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:643
+msgid "Winged beasts, join us, or die."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:647
+msgid "Never! This is our ancient land, and we shall never give it up!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:651
+msgid "Then we shall slaughter every last one of you."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:655
+msgid "Not without a fight!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:659
+msgid ""
+"Your majesty, these invaders are our true enemies. If we fight amongst "
+"ourselves, we are all doomed."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:672
+msgid ""
+"Very well. Let us forget our differences for the moment and fight together."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:676
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:766
+msgid "Good ... Hey, aren't you going to open this temple for us?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:680
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:770
+msgid "All hands to fight the invaders, my children!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:684
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:774
+msgid "Oh, looks like we're going to have to do this ourselves."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:691
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:781
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1053
+msgid ""
+"*@<127,127,127>Objective I:\n"
+"<127,127,127>Head towards temple until further notice"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:696
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:786
+msgid ""
+"*@<255,255,255>Objective II:\n"
+"<0,255,0>Move any unit to the temple"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:708
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:798
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1075
+msgid "Death of Queen Agnaruulan"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:728
+msgid "No! You must pay dearly for the murder of my children."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:732
+msgid "Let us hold out. The drakes will surely see sense sooner or later."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:758
+msgid ""
+"Must we continue this foolish skirmish? If we do not fight Zharagorn "
+"together, we will all die."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:762
+msgid "Very well. Let us forget our differences for the moment.."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:830
+msgid ""
+"Viktor, I have managed to decode the scroll we found on Haathan Avery's "
+"body. We can use it in our favour."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:834
+msgid ""
+"Are you sure this is a good idea? Should we be dabbling in this kind of "
+"force?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:838
+msgid ""
+"I know what I'm doing ... besides, there are worse forces to meddle with."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:842
+msgid "Oh, well, if you are sure."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:846
+msgid ""
+"Daemons of the nethworlds, I bind you to serve us and fight the servants of "
+"darkness!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:856
+msgid "I don't like it. They're looking too confident."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:860
+msgid ""
+"Fools. Do you think your little alliance makes you a match for us? Daemons "
+"of the netherworlds, I bind you to join us and slay all enemies of Zharaogrn!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:912
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:938
+msgid "Huh?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:916
+msgid "What the-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:922
+msgid "Damn! They must have taken something from Haathan Avery."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:926
+msgid "Shame we didn't defeat him. We could have used that ourselves."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:930
+msgid ""
+"Still, it's probably for the best. We shouldn't dabble with that sort of "
+"magic."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:934
+msgid "There are worse kinds of magic to meddle with."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:942
+msgid "It doesn't matter. Let us keep fighting."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:972
+msgid "A simple piece of rubble. We can shift this in no time!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:998
+msgid "Thank goodness! We thought we were done for down there!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1002
+msgid "Golran of Alsok at your service."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1006
+msgid "But it looks like we've got yet another fight."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1010
+msgid "More dark fighters to fry? Let me at them!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1014
+msgid ""
+"We have to get out of here before reinforcements arrive. Let's take out the "
+"northern keep and get ourselves through the pass."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1018
+msgid "Use this temple to summon any dwarves you need."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1058
+msgid ""
+"*@<127,127,127>Objective II:\n"
+"<127,127,127>Move any unit to the temple"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1063
+msgid ""
+"*@<255,255,255>Victory:\n"
+"<0,255,0>Defeat Zan-L'skaran"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1094
+msgid "You can't escape. There is nowhere to run to."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1098
+msgid "Let's get out of here!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1102
+msgid "Go! You have what you want."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1106
+msgid "Aren't you coming with us?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1110
+msgid "No. We will stay and defend our land."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1114
+msgid "Your majesty, more will come. Even you cannot hold off this army."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1118
+msgid ""
+"Then we will fight to the last drake. This is our land, and we would rather "
+"die with honour than live as cowards."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1122
+msgid "But, your majesty, surely-"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1126
+msgid ""
+"It is no use. If the drakes wish to hold to the end, it shall be so. We must "
+"not lose sight of our mission."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1158
+msgid "No! All shall be punished for my death! All of you!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1162
+msgid "The drakes have turned on us! We're doomed!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1175
+msgid ""
+"There's another wave of dark riders pouring down the mountain. It's huge. "
+"We're done for!"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:5
+msgid "Epilogue"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:27
+msgid ""
+"Though I had no wish for the drakes so sell their lives so cheaply, in a way "
+"they had done us a favour. Their foolish decision to fight to the death "
+"bought us precious time to escape, and by the time the drakes' stronghold "
+"had fallen, we had finally taken the dark legions off our trail."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:30
+msgid ""
+"But the situation for us was still not good. We had lost most of our "
+"supplies in our difficult journeys over and under the mountains, and our "
+"food was running low. Twice we had to divert our path to avoid Zharagorn's "
+"patrols - patrols that were surely looking for us."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:33
+msgid ""
+"There was now no chance of reaching the World's End Mountains without "
+"another rest, but there was no-one on the route ahead I could trust to "
+"shelter us. There was only one option left, which involved a sharp diversion "
+"eastwards, to the people who fought Zharagorn the most courageously all "
+"those centuries ago."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:36
+msgid "But I had not paid heed to the predictions of Arawn-Myegon."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:39
+msgid "To be continued ..."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:52
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:25
+msgid "Viktor"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:5
+msgid "Cheat Screen"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:45
+msgid ""
+"When I first saw Viktor, I admit I misjudged him. As danger reared its ugly "
+"head, he seemed, as many ficticious characters for the purpose of computer "
+"games are, eager to jump to a scenario he hadn't played yet without going "
+"through the proper order."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:50
+msgid ""
+"Now now, that is not a fair conculsion. This is for purposes of playtesting, "
+"otherwise they'll never get this finished and we'll never get round to "
+"defeating Zharagorn. Now, which scenario shall I play?"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:57
+msgid ""
+"I had indeed misjudged him. If Viktor was a cheat, he was a rather stupid "
+"one because he could have gone straight to that scenario without going "
+"through the cheat mode."
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:69
+msgid "More Than a Match"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:531
+msgid "The Dwarf and the Lich (via The Front Line)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:611
+msgid "The Dwarf and the Lich (via Beneath Enemy Lines)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:740
+msgid "The Dwarf and the Lich (via The Forgotten Front)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:831
+msgid "Ancient Friends (via The Front Line)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:958
+msgid "Ancient Friends (via Beneath Enemy Lines)"
+msgstr ""
+
+#: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:1111
+msgid "Ancient Friends (via The Forgotten Front)"
+msgstr ""
