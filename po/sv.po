@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-14 18:40+0200\n"
-"PO-Revision-Date: 2007-05-14 18:40+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: The_Unstoppable_Legion.cfg:10
 msgid "The Unstoppable Legion"
@@ -40,12 +42,14 @@ msgid "(beginner)"
 msgstr ""
 
 #: The_Unstoppable_Legion.cfg:19
+#, fuzzy
 msgid "(challenging)"
-msgstr ""
+msgstr "(utmanande)"
 
 #: The_Unstoppable_Legion.cfg:19
+#, fuzzy
 msgid "Cavalryman"
-msgstr ""
+msgstr "Kavallerist"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:5
 #: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:53
@@ -222,8 +226,9 @@ msgstr ""
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:335
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:931
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1101
+#, fuzzy
 msgid "Turns run out"
-msgstr ""
+msgstr "Dragen tar slut"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:395
 msgid ""
@@ -385,8 +390,9 @@ msgid ""
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:836
+#, fuzzy
 msgid "Yes, sir!"
-msgstr ""
+msgstr "Ja, ers nåd!"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:841
 msgid ""
@@ -1037,8 +1043,9 @@ msgid "No sign of this priest ... wait a moment, what's this?"
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:507
+#, fuzzy
 msgid "Holy Water"
-msgstr ""
+msgstr "Vigvatten"
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:509
 msgid "Using this water will cause every blow you deal to be holy!"
@@ -1677,8 +1684,9 @@ msgid "So this is what made him think he could resist the undead ..."
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:689
+#, fuzzy
 msgid "Holy Amulet"
-msgstr ""
+msgstr "Helig amulett"
 
 #: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:691
 msgid "Every blow you deal is now holy!"
@@ -1692,12 +1700,14 @@ msgid ""
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:728
+#, fuzzy
 msgid "Potion of Strength"
-msgstr ""
+msgstr "Stärkande elixir"
 
 #: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:731
+#, fuzzy
 msgid "Strength is given to the drinker."
-msgstr ""
+msgstr "Den som dricker blir starkare."
 
 #: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:765
 msgid "At least I'll go down fighting for my people. En garde!"
@@ -1935,8 +1945,9 @@ msgid ""
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:814
+#, fuzzy
 msgid "Who is that?"
-msgstr ""
+msgstr "Vem där?"
 
 #: The_Unstoppable_Legion/scenarios/05b_Beneath_Enemy_Lines.cfg:818
 msgid "We're friends. We're trying to get through the other way."
@@ -2094,8 +2105,9 @@ msgid "That is what is widely believed. Unfortunately-"
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:547
+#, fuzzy
 msgid "What do you want?"
-msgstr ""
+msgstr "Vad vill du?"
 
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:552
 msgid ""
@@ -2110,8 +2122,9 @@ msgid ""
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:561
+#, fuzzy
 msgid "I don't understand."
-msgstr ""
+msgstr "Jag förstår inte."
 
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:565
 msgid ""
@@ -2709,8 +2722,9 @@ msgid ""
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1567
+#, fuzzy
 msgid "loyal"
-msgstr ""
+msgstr "lojal"
 
 #: The_Unstoppable_Legion/scenarios/06_The_Dwarf_and_the_Lich.cfg:1568
 msgid "zero upkeep"
@@ -2783,8 +2797,9 @@ msgid "Ancient Friends"
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:132
+#, fuzzy
 msgid "Defeat both enemy leaders"
-msgstr ""
+msgstr "Besegra båda fiendeledarna"
 
 #: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:148
 msgid "Death of Arawn-Myegon"
@@ -3044,8 +3059,9 @@ msgid ""
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:178
+#, fuzzy
 msgid "What?"
-msgstr ""
+msgstr "Vad?"
 
 #: The_Unstoppable_Legion/scenarios/08_The_Calm_before_the_Storm.cfg:182
 msgid ""
@@ -4001,8 +4017,9 @@ msgid "You can't escape. There is nowhere to run to."
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1098
+#, fuzzy
 msgid "Let's get out of here!"
-msgstr ""
+msgstr "Nu tar vi oss härifrån!"
 
 #: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:1102
 msgid "Go! You have what you want."
@@ -4051,8 +4068,9 @@ msgid ""
 msgstr ""
 
 #: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:5
+#, fuzzy
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilog"
 
 #: The_Unstoppable_Legion/scenarios/12_A_Painful_Betrayal.cfg:27
 msgid ""
