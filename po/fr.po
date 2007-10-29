@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-14 18:40+0200\n"
-"PO-Revision-Date: 2007-05-14 18:40+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-10-24 20:10+0100\n"
+"Last-Translator: Pierre Rudloff <tael67@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: The_Unstoppable_Legion.cfg:10
 msgid "The Unstoppable Legion"
-msgstr ""
+msgstr "La Légion Imparable"
 
 #: The_Unstoppable_Legion.cfg:15
 msgid ""
@@ -22,35 +22,40 @@ msgid ""
 "guard, stands between them and domination of the known world. (9 playable "
 "scenarios so far, written for Wesnoth 1.2.x)"
 msgstr ""
+"Les légendaires légions de Zharagorn, dormant depuis des siècles, se sont "
+"levées une nouvelle fois et les villes tombent les unes après les autres en "
+"leur présence. Seul Viktor, un garde de patrouille, se tient entre eux et la "
+"domination du monde connu. (9 scénarios jouables pour l'instant, écrit pour "
+"Wesnoth 1.2.x)"
 
 #: The_Unstoppable_Legion.cfg:19
 msgid "Holibar"
-msgstr ""
+msgstr "Holibar"
 
 #: The_Unstoppable_Legion.cfg:19
 msgid "Gendarme"
-msgstr ""
+msgstr "Gendarme"
 
 #: The_Unstoppable_Legion.cfg:19
 msgid "(tricky)"
-msgstr ""
+msgstr "(difficile)"
 
 #: The_Unstoppable_Legion.cfg:19
 msgid "(beginner)"
-msgstr ""
+msgstr "(débutant)"
 
 #: The_Unstoppable_Legion.cfg:19
 msgid "(challenging)"
-msgstr ""
+msgstr "(exigeant)"
 
 #: The_Unstoppable_Legion.cfg:19
 msgid "Cavalryman"
-msgstr ""
+msgstr "Hussard"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:5
 #: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:53
 msgid "An Unlikely Hero"
-msgstr ""
+msgstr "Un Héros Improbable"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:25
 msgid ""
@@ -60,12 +65,20 @@ msgid ""
 "full experience, you should also download 'Ye Newe Melodies Music' from the "
 "server."
 msgstr ""
+"Bienvenue dans La Légion Imparable. Ceci est un travail en cours, avec "
+"actuellement 9 scénarios jouables. Soyez conscients que les stratégies dans "
+"cette campagne diffèrent des campagnes principales. C'est une campagne "
+"autonome, mais pour une expérience complète, vous devriez aussi télécharger "
+"'Ye Newe Melodies Music' depuis le serveur."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:29
 msgid ""
 "In the land of Suveran, where few men of Wesnoth have ever set foot, men "
 "spoke in fear of the invasion of Zharagorn, centuries ago."
 msgstr ""
+"Dans le pays de Suverain, où quelques hommes de Wesnoth ont déjà mis les "
+"pieds, les hommes parlent avec peur de l'invasion de Zharagorn, il y a des "
+"siècles."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:33
 msgid ""
@@ -76,6 +89,12 @@ msgid ""
 "World's End mountains, as far north as anyone had ever mapped, he was drawn "
 "to a mysterious cave."
 msgstr ""
+"Dans un passé sombre et lointain, le Roi Eldrian décréta que son plus vieux "
+"fils, Wolfgang, n'était pas apte à lui succéder sur le trône. Surpris et en "
+"colère, Wolfgang quitta le royaume, cherchant un moyen de prouver sa valeur. "
+"Pendant des mois il voyagea dans le pays, jusqu'à ce qu'un jour, en "
+"explorant les montagnes du Bout du Monde, les plus au nord que personne "
+"n'ait jamais cartographié, il découvrit une mystérieuse caverne."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:37
 msgid ""
@@ -85,6 +104,12 @@ msgid ""
 "dead, fallen mercenaries from ages past with dreams of fortune and glory, "
 "rose to serve him. Soon he had a legion like nothing the world had ever seen."
 msgstr ""
+"Là, il trouva un cristal, connu sous le nom d'Emeraude Noire, qui lui donne "
+"un pouvoir inimaginable. Le Prince Wolfgang se renomma Zharagorn, et sur des "
+"kilomètres alentour, les gens qui cherchaient le pouvoir se regroupèrent "
+"sous son commandement. Même les morts, des mercenaires tombés depuis des "
+"siècles avec des rêves de fortune et de gloire, se levèrent pour le servir. "
+"Bientôt il eut une légion comme le monde n'en avait jamais connu."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:41
 msgid ""
@@ -93,6 +118,11 @@ msgid ""
 "fell one by one. Zharagorn was merciful to those who surrendered, allowing "
 "them to live on as slaves. Those who resisted were slaughtered."
 msgstr ""
+"Alors les légendes disent que, quand sa légion commença à marcher vers le "
+"sud, rien n'aurait pu l'arrêter. Les royaumes nains et elfes, les clans "
+"orques et les cités-Etats sur son chemin tombèrent une par une. Zharagorn "
+"était compatissant avec ceux qui se rendaient, les autorisant à vivre comme "
+"esclaves. Ceux qui résistaient étaient abattus."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:45
 msgid ""
@@ -102,6 +132,11 @@ msgid ""
 "himself tracked them down, and the Darkguard, the elite of his army, wiped "
 "them out."
 msgstr ""
+"Seul le Cercle des Druides fut proche de l'arrêter. Ils se faufilèrent "
+"derrière les lignes ennemies et cherchèrent à détruire l'Emeraude Noire, "
+"toujours dans la caverne où Wolfgang l'avait découverte. Mais avant qu'ils "
+"puissent le faire, Zharagorn lui même les retrouva et la Garde Sombre, "
+"l'élite de son armée, les balaya."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:49
 msgid ""
@@ -110,6 +145,11 @@ msgid ""
 "realised they were no match for Zharagorn's, then the King himself rode to "
 "meet his son to give whatever he wanted."
 msgstr ""
+"Finalement, les forces de Zharagorn atteignirent Karasov, la capitale. Il "
+"est dit que les forces du Roi Eldrian tinrent remarquablement pendant trois "
+"jours avant de réaliser qu'ils n'étaient pas un problème pour Zharagorn, "
+"alors le Roi lui même chevaucha afin de rencontrer son fils pour lui donner "
+"ce qu'il voulait."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:53
 msgid ""
@@ -119,6 +159,11 @@ msgid ""
 "when King Eldrian agreed to this request, Zharagorn's forces withdrew, never "
 "to be seen again."
 msgstr ""
+"La demande de Zharagorn était étrange. Tout ce qu'il voulait était que son "
+"père admette qu'il s'était trompé en lui refusant le trône et qu'on "
+"construise un temple à sa gloire. Et bien que les générations qui racontent "
+"l'histoire trouvent cela étrange, quand le Roi Eldrian accéda à sa requête, "
+"les forces de Zharagorn se retirèrent et on ne les vit plus jamais."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:57
 msgid ""
@@ -127,6 +172,10 @@ msgid ""
 "return. And there were the cultists: men who prayed for Zharagorn's return, "
 "who worshipped in the temple every day."
 msgstr ""
+"C'était il y a longtemps... Mais le temple resta debout alors que les "
+"siècles passaient. Personne n'osa le profaner, craignant que cela mène à son "
+"retour. Et il y avait les cultistes : des hommes qui priaient pour le retour "
+"de Zharagorn, qui officiaient dans le temple tous les jours."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:61
 msgid ""
@@ -136,6 +185,12 @@ msgid ""
 "returned, and a new legend was made. But this time, the legend was of a "
 "young man named Viktor ... and how he stood up to the unstoppable legion."
 msgstr ""
+"Bien sur, les légendes ne sont que des légendes et finalement certains "
+"commencèrent à se demander à quel point l'histoire était fiable. En effet, "
+"beaucoup commencèrent à croire que ce n'était rien de plus que des "
+"commérages superstitieux. Puis un jour, Zharagorn revint et une nouvelle fut "
+"créé. Mais cette fois, la légende concernait un jeune homme nommé Viktor... "
+"et comment il se leva contre la légion imparable."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:326
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:864
@@ -159,13 +214,15 @@ msgstr ""
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:903
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1071
 msgid "` "
-msgstr ""
+msgstr "` "
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:329
 msgid ""
 "*@<255,255,255>Objective I:\n"
 "<0,255,0>Move Viktor to the keep in the south"
 msgstr ""
+"*@<255,255,255>Objectif I :\n"
+"<0,255,0>Déplacer Viktor jusqu'au donjon au sud"
 
 #: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:150
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:333
@@ -194,13 +251,13 @@ msgstr ""
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:915
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1089
 msgid "Death of Viktor"
-msgstr ""
+msgstr "Mort de Viktor"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:337
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:881
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1036
 msgid "Death of Rufus"
-msgstr ""
+msgstr "Mort de Rufus"
 
 #: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:162
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:341
@@ -223,186 +280,230 @@ msgstr ""
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:931
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1101
 msgid "Turns run out"
-msgstr ""
+msgstr "Fin des tours"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:395
 msgid ""
 "When I first saw Viktor, I admit I misjudged him. As danger reared its ugly "
 "head, he seemed, as many nobles on horseback are, little more than a coward."
 msgstr ""
+"Quand j'ai vu Viktor pour la première fois, j'admet que je l'ai mal jugé. "
+"Alors que le danger relevait son affreuse tête, il avait l'air, comme "
+"beaucoup de nobles montés, d'être à peine plus qu'un lâche."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:419
 msgid "I don't like it here. It's too quiet."
-msgstr ""
+msgstr "Je n'aime pas ça. C'est trop calme."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:439
 msgid "Surprise, surprise! Drop your weapon and hand over your gold!"
-msgstr ""
+msgstr "Surprise, surprise ! Jette ton arme et remet nous ton or !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:444
 msgid "Please, good sir. I am just on border patrol. I mean no harm."
 msgstr ""
+"S'il vous plaît, bon seigneur. Je ne suis que de la patrouille frontalière. "
+"Je ne veux aucun mal."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:449
 msgid ""
 "Look, Rufus! He bears the arms of nobility. He'll fetch us a tidy ransom!"
 msgstr ""
+"Regarde, Rufus ! Il porte les armes de la noblesse. Il nous rapportera une "
+"bonne rançon."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:454
 msgid ""
 "Indeed. It is fortunate that you came our way. Jan, take our guest somewhere "
 "safe until I decide-"
 msgstr ""
+"En effet. Il est heureux que tu sois venu par ici. Jan, emmène notre hôte "
+"dans un endroit sur en attendant que je décide..."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:469
 msgid "Sir! Someone's coming! Some sort of soldiers ..."
-msgstr ""
+msgstr "Monsieur ! Quelqu'un arrive ! Des espèces de soldats..."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:474
 msgid "The rest of the border patrol? Lucky we've got a hostage."
 msgstr ""
+"Le reste de la patrouille frontalière ? Heureusement que nous avons un otage."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:479
 msgid "No, sir! Not the border patrol. They're ... I don't know."
 msgstr ""
+"Non, monsieur ! Pas la patrouille frontalière. Ils sont... Je ne sais pas."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:527
 msgid ""
 "You! Vagrants in the woods! I am a loyal officer of the forces of Zharagorn. "
 "Sumbit now, or face your death."
 msgstr ""
+"Vous ! Vagabonds dans les bois ! Je suis un loyal officier des forces de "
+"Zharagorn. Soumettez vous maintenant, ou faites face votre mort."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:532
 msgid "Zharagorn ... It's impossible. It's just a myth."
-msgstr ""
+msgstr "Zharagorn... C'est impossible. Ce n'est qu'un mythe."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:537
 msgid ""
 "We shall never surrender to you! We would rather die free than live as "
 "slaves."
 msgstr ""
+"Nous ne nous rendrons jamais à vous ! Nous préférerions mourir libre que "
+"vivre comme des esclaves."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:542
 msgid "Very well. Prepare to die! Ha! Ha! Ha! Ha!"
-msgstr ""
+msgstr "Très bien. Préparez vous à mourir ! Ha ! Ha ! Ha ! Ha !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:547
 msgid "We don't stand a chance. There's too many."
-msgstr ""
+msgstr "Nous n'avons aucune chance. Ils sont trop nombreux."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:552
 msgid "Let me go. I can get help."
-msgstr ""
+msgstr "Laissez moi partir. Je peux obtenir de l'aide."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:557
 msgid "No! Let him fight and die with the rest of us."
-msgstr ""
+msgstr "Non ! Laissez le se battre et mourir avec nous autres."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:562
 msgid "Please. There is a border patrol nearby. I can bring them to help."
 msgstr ""
+"S'il vous plaît. Il y a une patrouille frontalière tout près. Je peux les "
+"ramener pour vous aider"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:567
 msgid "And if I don't trust you?"
-msgstr ""
+msgstr "Et si je ne te fais pas confiance ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:586
 msgid ""
 "Sir, we have no choice. If we don't trust him, we all die. If we let him go, "
 "we might live to fight another day."
 msgstr ""
+"Monsieur, nous n'avons pas le choix. Si ne nous lui faisons pas confiance, "
+"nous mourrons tous. Si nous le laissons partir, nous vivrons peut être pour "
+"combattre un autre jour."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:591
 msgid ""
 "Very well. Owayn, lead a small force under this noble's command so that he "
 "can break out. Rest of you - defend this hideout!"
 msgstr ""
+"Très bien. Owayn, place une petite force sous le commandement de ce noble "
+"pour qu'il puisse passer. Vous autres... défendez cette planque !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:678
 msgid "Take that, you fiend!"
-msgstr ""
+msgstr "Prend ça, espèce de monstre !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:691
 msgid "You didn't think we'd let you escape that easily, did you?"
 msgstr ""
+"Vous ne croyiez que nous vous laisserions vous échapper si facilement, n'est-"
+"ce pas ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:702
 msgid "Die, foul creature!"
-msgstr ""
+msgstr "Meurs, créature infecte !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:731
 msgid ""
 "Phew, looks like I've made it out! Just a little further and ... Huh? Who's "
 "that?"
 msgstr ""
+"Pfiou, on dirait que je m'en suis sorti ! Juste un peu plus loin et... "
+"Hein ? Qui est-ce ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:747
 msgid "What are you going to do, boy? Fight like a man, or flee like a coward?"
 msgstr ""
+"Que vas tu faire, mon garçon ? Te battre comme un homme ou fuir comme un "
+"lâche ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:751
 msgid "Oh no! Not that senile old fool from the swamp hut again!"
-msgstr ""
+msgstr "Oh non ! Pas encore ce vieux fou sénile de la cabane du marais !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:755
 msgid "Senile? I'll give you a senile!"
-msgstr ""
+msgstr "Sénile ? Je vais t'en donner du sénile !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:789
 msgid "Viktor, what's the hurry?"
-msgstr ""
+msgstr "Viktor, quel est le problème ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:794
 msgid ""
 "Sir, a strange army has crossed the border, and they're attacking a hideout. "
 "They claim to be soldiers of Zharagorn! We must stop them!"
 msgstr ""
+"Monsieur, une étrange armée a traversé la frontière, et ils attaquent une "
+"planque. Ils prétendent être des soldats de Zharagorn ! Nous devons les "
+"arrêter !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:799
 msgid ""
 "Zharagorn? It can't be ... Anyway, they're only outlaws. We can't risk "
 "losing soldiers on the likes of them."
 msgstr ""
+"Zharagorn ? Ca ne se peut pas... Quoi qu'il en soit, ils ne sont que des "
+"hors-la-loi. Nous ne pouvons pas risquer de perdre des soldats pour eux."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:816
 msgid ""
 "With all due respect, sir, we must fight! Outlaws or not, we have a duty to "
 "protect everyone from invaders to this land."
 msgstr ""
+"Avec tout le respect que je vous dois, monsieur, nous devons nous battre ! "
+"Hors-la-loi ou pas, nous avons le devoir de protéger quiconque de ceux qui "
+"envahissent cette terre."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:821
 msgid "All right ... Hubert, Viktor is now your commander."
-msgstr ""
+msgstr "Très bien... Hubert, Viktor est maintenant ton commandant."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:826
 msgid "Me? Commander?"
-msgstr ""
+msgstr "Moi ? Commandant ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:831
 msgid ""
 "It's about time you had some command experience. Round up anyone you can "
 "find on border patrol and fight with whatever you've got."
 msgstr ""
+"Il est temps que tu ai un peu l'expérience du commandement. Rassemble tous "
+"ceux de la patrouille frontalière que tu peux trouver et combat avec ce que "
+"tu as."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:836
 msgid "Yes, sir!"
-msgstr ""
+msgstr "Bien, monsieur !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:841
 msgid ""
 "I'll be back as soon as I can with reinforcements. Prove your worth today "
 "and you might stay a commander. Oh, and one other thing ..."
 msgstr ""
+"Je serais de retour aussi vite que possible avec des renforts. Prouve ta "
+"valeur aujourd'hui et tu resteras peut être commandant. Oh et encore une "
+"chose..."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:846
 msgid "Yes?"
-msgstr ""
+msgstr "Oui ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:851
 msgid ""
 "Try not to get yourself killed. I promised your father on his deathbed I'd "
 "look out for you."
 msgstr ""
+"Essaie de ne pas te faire tuer. J'ai promis à ton père sur son lit de mort "
+"que je veillerais sur toi."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:867
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1022
@@ -410,6 +511,8 @@ msgid ""
 "*@<127,127,127>Objective I:\n"
 "<127,127,127>Move Viktor to the keep in the south"
 msgstr ""
+"*@<127,127,127>Objectif I :\n"
+"<127,127,127>Déplacer Viktor jusqu'au donjon au sud"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:873
 msgid ""
@@ -417,48 +520,60 @@ msgid ""
 "<0,255,0>Defeat Mal-Dhekara (Viktor must fight); or\n"
 "<0,255,0>Hold out until turns end (Viktor must fight)"
 msgstr ""
+"*@<255,255,255>Victoire :\n"
+"<0,255,0>Vaincre Mal-Dhekara (Viktor doit se battre); ou\n"
+"<0,255,0>Survivre jusqu'à la fin des tours (Viktor doit se battre)"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:885
 msgid "Either objective achieved without Viktor participating in combat"
 msgstr ""
+"L'un ou l'autre objectif atteint sans que Viktor ne participe au combat"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:920
 msgid "Look! He's coming back! And he's got reinforcements with him!"
-msgstr ""
+msgstr "Regardez ! Il revient ! Et il a amené des renforts avec lui !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:924
 msgid "By the gods, so he is."
-msgstr ""
+msgstr "Par tous les dieux, alors il est là."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:928
 msgid ""
 "Aye, but will the boy fight or let others do it for him? What are you boy, a "
 "man or a mouse?"
 msgstr ""
+"Oui, mais le garçon va-t-il se battre ou laisser les autres le faire pour "
+"lui ? Qu'es tu mon garçon, un homme ou une souris ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:932
 msgid "(Grr.) Once we've killed these outlaws, that fool's going to be next."
 msgstr ""
+"(Grr.) Une fois que nous aurons tué ces hors-la-loi, cet imbécile sera le "
+"prochain."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:958
 msgid "That's more like it, boy! Show them what you're made of!"
-msgstr ""
+msgstr "C'est bien, mon garçon ! Montre leur de quoi tu es fait !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:962
 msgid "That's it! Someone kill that stinking peasant this instant!"
-msgstr ""
+msgstr "Ca suffit ! Que quelqu'un tue ce paysan puant sur le champ !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:966
 msgid ""
 "Stinking peasant? I ain't no stinking peasant! I'll tell you who I am! I "
 "am ..."
 msgstr ""
+"Paysan puant ? Je ne suis pas un paysan puant ! Je vais vous dire qui je "
+"suis ! Je suis..."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1006
 msgid ""
 "... Deuterus, Great Druid of the northern forest, and you shall pay for your "
 "tresspass!"
 msgstr ""
+"...Deuterus, Grand Druide de la forêt du nord, et vous allez payer pour "
+"votre intrusion !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1028
 msgid ""
@@ -466,6 +581,9 @@ msgid ""
 "<0,255,0>Defeat Mal-Dhekara; or\n"
 "<0,255,0>Hold out until turns end"
 msgstr ""
+"*@<255,255,255>Victoire :\n"
+"<0,255,0>Vaincre Mal-Dhekara; ou\n"
+"<0,255,0>Survivre jusqu'à la fin des tours"
 
 #: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:154
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1040
@@ -492,7 +610,7 @@ msgstr ""
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:919
 #: The_Unstoppable_Legion/scenarios/05c_The_Forgotten_Front.cfg:1093
 msgid "Death of Deuterus"
-msgstr ""
+msgstr "Mort de Deuterus"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1066
 msgid ""
@@ -501,6 +619,10 @@ msgid ""
 "try to level him up as soon as possible. Like all patrol guards, Viktor is "
 "lawful."
 msgstr ""
+"Viktor est un Noble Monté. Au niveau 1, il a une attaque de mêlée modérée et "
+"une faible attaque à distance. Cependant, à partir du niveau 2 il gagne une "
+"capacité de commandement, donc essayez de le faire monter de niveau le plus "
+"tôt possible. Comme les gardes de patrouille, Viktor est loyal."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1078
 msgid ""
@@ -509,12 +631,19 @@ msgid ""
 "Unlike heroes, the loss of a character does not lose you the scenario, but "
 "characters are valuable and should be used prudently."
 msgstr ""
+"Notez qu'Owayn a un croissant bleu à coté de lui. Ceci est un marqueur de "
+"personnage. Les personnages sont loyaux et rappelés gratuitement au début de "
+"chaque scénario. Au contraire des héros, la perte d'un personnage ne fais "
+"pas perdre le scénario, mais les personnages ont de la valeur et devraient "
+"être utilisés prudemment."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1090
 msgid ""
 "Hubert is also a character. Try to keep him alive, for he may be of great "
 "help later in the campaign."
 msgstr ""
+"Hubert est aussi un personnage. Essayez de le garder en vie, parce qu'il "
+"pourrait être d'une grande aide plus tard dans la campagne."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1102
 msgid ""
