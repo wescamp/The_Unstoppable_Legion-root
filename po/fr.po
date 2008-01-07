@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-14 18:40+0200\n"
-"PO-Revision-Date: 2007-10-24 20:10+0100\n"
+"PO-Revision-Date: 2007-12-18 10:58+0100\n"
 "Last-Translator: Pierre Rudloff <tael67@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -652,6 +652,11 @@ msgid ""
 "trappers, Deuterus has particularly good defences in forests and swamps, but "
 "he lacks the manouverability in forests enjoyed by elves."
 msgstr ""
+"Deuterus est un Grand Druide. Il possède une attaque magique très puissante, "
+"et des attaques lente et de mêlée plus faibles. Il possède aussi le pouvoir "
+"de guérison. Comme les braconniers et les trappeurs, Deuterus possède une "
+"défense particulièrement bonne dans les forêts et les marais, mais il lui "
+"manque la maniabilité des elfes."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1114
 msgid ""
@@ -659,6 +664,10 @@ msgid ""
 "meelee attack but no ranged attack. Like all servants of Zharagorn, dark "
 "fighters are chaotic."
 msgstr ""
+"Les guerriers des ténèbres forment la base des légions ténèbres. Ils "
+"possèdent une puissante attaque de mêlée mais aucune attaque à distance. "
+"Comme tous les serviteurs de Zharagorn, les guerriers de l'ombre sont "
+"chaotiques."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1126
 msgid ""
@@ -666,6 +675,10 @@ msgid ""
 "skirmishers, and they can easily slip through gaps in your ranks and pick "
 "off wounded units. Take care."
 msgstr ""
+"Les cultistes des ténèbres possèdent de faibles attaques de mêlée et à "
+"distance. Cependant, ils sont des tirailleurs et peuvent facilement se "
+"glisser à travers les trous dans vos rangs et attaquer les unités blessées. "
+"Faites attention."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1139
 msgid ""
@@ -674,6 +687,10 @@ msgid ""
 "Cataphracts are slower units that excel at meelee. Try to get mixture of all "
 "three units."
 msgstr ""
+"Dans cette campagne, trois avancements sont proposés aux hussards : les "
+"dragons, les holibars et les cataphractaires. Les holibars sont des "
+"tirailleurs légers et les cataphractaires sont des unités plus lentes qui "
+"excellent au corps à corps. Essayez d'obtenir un mélange des trois unités."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1152
 msgid ""
@@ -681,44 +698,59 @@ msgid ""
 "ranged attack. However, although they have swords, they have no armour and "
 "are vulnerable in meelee combat. Do not use them to hold off enemy lines!"
 msgstr ""
+"Les archers montés sont des unités montées rapides, utiles pour attaquer les "
+"ennemis sans attaque à distance. Cependant, bien qu'ils aient des épées, ils "
+"ne possèdent pas d'armures et sont vulnérables au corps à corps. Ne les "
+"utilisez pas pour retenir les lignes ennemis."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1166
 msgid ""
 "Stranger, we are eternally in your debt. Please accept our apologies that we "
 "ever doubted your word."
 msgstr ""
+"Etranger, nous vous sommes éternellement reconnaissant. Veuillez accepter "
+"nos excuses pour avoir douté de vous."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1170
 msgid ""
 "Viktor, I knew I could count on you to lead men into battle. Consider "
 "yourself a commander permanently."
 msgstr ""
+"Viktor, je savais que je pouvais compter sur toi pour mener les hommes au "
+"combat. Considère toi comme commandant de façon permanente."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1174
 msgid ""
 "I am honoured to accept. But I am worried ... Who were those men, and what "
 "if there are more coming?"
 msgstr ""
+"Je suis honoré d'accepter. Mais je suis inquiet... qui étaient ces hommes et "
+"que se passerait il si plus étaient en route ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1178
 msgid ""
 "Noble fighters, the situation is very grave. They were who they said they "
 "were, and the ancient legion of Zharagorn is on the move once more."
 msgstr ""
+"Nobles guerriers, la situation est très grave. Ils sont qui ils disent être "
+"et l'ancienne légion de Zharagorn est en mouvement une fois de plus."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1182
 msgid "My Lord, this is ... who are you?"
-msgstr ""
+msgstr "Mon seigneur, c'est... qui êtes vous ?"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1186
 msgid ""
 "My name is Deuterus, but there is no time for introductions. We must head to "
 "Karasov immediately to alert the King."
 msgstr ""
+"Mon nom est Deuterus, mais nous n'avons pas le temps pour des présentations. "
+"Nous devons aller à Karasov immédiatement pour alerter le Roi."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1190
 msgid "(I don't believe it. All the time he lived here and I never knew ...)"
 msgstr ""
+"(Je ne le crois pas. Il a vécu là tout ce temps et je ne l'ai jamais su...)"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1194
 msgid ""
@@ -727,12 +759,18 @@ msgid ""
 "alert the King about this. Come, old man, if you know about these people you "
 "can explain it to him."
 msgstr ""
+"Je doute qu'il y ai un réel danger. Ils n'étaient probablement que des "
+"brigands prétendant être des suivants de Zharagorn afin de paraître plus "
+"puissants... Toutefois, nous ferions mieux d'alerter le Roi à ce sujet. "
+"Venez, vieil homme, si vous connaissez ces gens, vous pourrez lui expliquer."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1203
 msgid ""
 "Rufus, I wish to accompany Viktor back to Karasov. It's the least we can do "
 "in return."
 msgstr ""
+"Rufus, je voudrais accompagner Viktor jusqu'à Karasov. C'est le moins que "
+"nous puissions faire en retour"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1207
 msgid ""
@@ -740,6 +778,9 @@ msgid ""
 "king will be very welcoming to us. Everyone else, let's head for the hills "
 "before the rest of this army arrives."
 msgstr ""
+"Très bien, mais vous devrez partir avant d'entrer à Karasov. Je doute que le "
+"roi soit très accueillant avec nous. Vous autres, rejoignez ces collines "
+"avant que le reste de cette armée n'arrive."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1213
 msgid ""
@@ -747,10 +788,13 @@ msgid ""
 "welcoming to us. Everyone, let's head for the hills before the rest of this "
 "army arrives."
 msgstr ""
+"J'aimerais pouvoir vous aider plus, mais je doute que votre roi soit très "
+"accueillant avec nous. Tout le monde, rejoignons ces collines avant que le "
+"reste de cette armée n'arrive."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1231
 msgid "Come on, Viktor. Let's start heading south whilst the weather's good."
-msgstr ""
+msgstr "Venez Viktor. Partons vers le sud tant que le temps est beau."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1235
 msgid ""
@@ -758,26 +802,35 @@ msgid ""
 "Viktor. A newly-appointed commander with a fledgling force, I knew very "
 "little about him. But something told me he was who I'd been waiting for."
 msgstr ""
+"Et donc nous embarquâmes pour Karasov. Pendant le voyage, je regardais "
+"Viktor. Un commandant nouvellement promu avec la force du débutant, je ne "
+"savais que peu de choses sur lui. Mais quelque chose me dit qu'il était "
+"celui que j'attendais."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1239
 msgid ""
 "With the land of Suveran facing its darkest hour, fate, it seemed, had "
 "provided us a hero."
 msgstr ""
+"Il semblait qu'alors que le pays de Suveran faisait face à son heure la plus "
+"sombre, le destin nous avait amené un héros."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1268
 msgid "Enemy reinforcements are upon us! We have been betrayed!"
-msgstr ""
+msgstr "Les renforts ennemis sont sur nous ! Nous avons été trahis !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1309
 msgid "Begone, foul brigands, in the name of King Gamaron!"
-msgstr ""
+msgstr "Partez, brigands fétides, au nom du Roi Gamaron !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1313
 msgid ""
 "Damn you! But know this: we are but a small advance party. When I return "
 "with the whole Legion of Zharagorn, you will all be slaughtered like dogs."
 msgstr ""
+"Soyez maudits ! Mais sachez ceci : nous ne sommes qu'un petit groupe "
+"d'éclaireurs. Quand je reviendrais avec la Légion de Zharagorn tout entière, "
+"vous serez tous abattus comme des chiens."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1336
 msgid ""
@@ -785,6 +838,9 @@ msgid ""
 "letting others risk their lives. I'm sorry, but you are not ready to be a "
 "commander."
 msgstr ""
+"Viktor, on ne dirige pas les soldats au combat en restant à l'arrière et en "
+"laissant les autres risquer leurs vies. Je suis désolé, mais tu n'es pas "
+"prêt à être commandant."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1365
 msgid ""
@@ -792,10 +848,13 @@ msgid ""
 "When the rest of the Legion of Zharagorn comes to avenge my death, you will "
 "all be slaughtered like dogs."
 msgstr ""
+"Alors, vous m'avez vaincu. Mais sachez cela : nous ne sommes qu'un minuscule "
+"groupe d'éclaireurs. Quand le reste de la légion de Zharagorn viendra pour "
+"venger ma mort, vous serez tous abattus comme des chiens."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1394
 msgid "Begone foul- ... oh, they're already gone."
-msgstr ""
+msgstr "Partez, fétides... Oh, ils sont déjà partis."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1411
 msgid ""
@@ -803,35 +862,40 @@ msgid ""
 "soldiers into battle, staying at the back and letting others risk their "
 "lives. I'm sorry, but you are not ready to be a commander."
 msgstr ""
+"Viktor, ces brigands ont pu être vaincus, mais on ne dirige pas les soldats "
+"au combat en restant à l'arrière et en laissant les autres risquer leur vie. "
+"Je suis désolé, mais tu n'est pas prêt pour être commandant."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1439
 msgid "No! I have been betrayed!"
-msgstr ""
+msgstr "Non ! J'ai été trahi !"
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1443
 msgid ""
 "I've failed in my promise, and I've failed to prove my worth as a commander."
 msgstr ""
+"J'ai failli à ma promesse et j'ai failli à prouver ma valeur en tant que "
+"commandant."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1468
 msgid "It's over ... it's all over."
-msgstr ""
+msgstr "C'est fini... tout est fini."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1493
 msgid "I have failed! Failed before I have started."
-msgstr ""
+msgstr "J'ai échoué ! Echoué avant d'avoir commencé."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1497
 msgid "Wait! I don't even know who you are ..."
-msgstr ""
+msgstr "Attendez ! Je ne sais même pas qui vous êtes..."
 
 #: The_Unstoppable_Legion/scenarios/01_An_Unlikely_Hero.cfg:1519
 msgid "Forgive me Viktor, I can't go on."
-msgstr ""
+msgstr "Excusez moi Viktor, je ne peux pas continuer."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:5
 msgid "More than a Match"
-msgstr ""
+msgstr "Une Poignée de Barbares"
 
 #: The_Unstoppable_Legion/scenarios/09_Race_Against_Time.cfg:140
 #: The_Unstoppable_Legion/scenarios/07_Ancient_Friends.cfg:130
@@ -841,152 +905,184 @@ msgid ""
 "` \n"
 "*@<255,255,255>Victory:"
 msgstr ""
+"` \n"
+"*@<255,255,255>Victoire :"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:122
 msgid "Defeat the orc leader"
-msgstr ""
+msgstr "Vaincre le chef orc"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:168
 msgid ""
 "For many days, we rode south. But, alas, Suveran's darkest hour was upon us "
 "sooner than I thought."
 msgstr ""
+"Durant des jours, nous fîmes route vers le sud. Mais, hélas, l'heure la plus "
+"sombre de Suveran était sur nous plutôt que je le pensais."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:173
 msgid "Look! To the north!"
-msgstr ""
+msgstr "Regardez ! Au nord !"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:178
 msgid "I don't believe it! How did they catch up with us so quickly?"
-msgstr ""
+msgstr "Je ne le crois pas ! Comment nous ont-ils rattrapés si vite ?"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:183
 msgid ""
 "You fools! Did you really think we would let your little insult go "
 "unpunished?"
 msgstr ""
+"Espèces d'imbéciles ! Vous pensiez vraiment que nous laisserions votre "
+"petite insulte impunie ?"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:188
 msgid "Oh no, that's all we need! Now there's some orcs blocking our path."
 msgstr ""
+"Oh non, nous n'avions pas besoin de ça ! Maintenant il y a des orcs qui "
+"bloquent note chemin."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:193
 msgid ""
 "Orcs? They shouldn't be this far south. What's the matter with the border "
 "guard?"
 msgstr ""
+"Des orcs ? Ils ne devraient pas être si au sud. Que se passe-t-il avec la "
+"garde frontalière ?"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:198
 msgid "Who are they? Who's that behind? ... Never mind! Kill the lot of them!"
-msgstr ""
+msgstr "Qui sont ils ? Qui est-ce derrière ? ...peu importe ! Tuez les tous !"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:202
 msgid "I have a plan. Viktor, you'd better recruit some of my horsemen."
 msgstr ""
+"J'ai un plan. Viktor, vous feriez mieux de recruter quelques uns de mes "
+"cavaliers."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:206
 msgid "About time! I could do with some company."
-msgstr ""
+msgstr "Il était temps ! Enfin de la compagnie."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:211
 msgid "You may now recruit horsemen."
-msgstr ""
+msgstr "Vous pouvez maintenant recruter des cavaliers."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:215
 msgid "Thank you. But what do I need them for?"
-msgstr ""
+msgstr "Merci. Mais pourquoi est-ce que j'en ai besoin ?"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:220
 msgid ""
 "Try to draw the orcs into the open ground, and your horsemen will make short "
 "work of them. I'll take out these northern raiders and catch you up later."
 msgstr ""
+"Essayez d'attirer les orcs en terrain ouvert et vos cavaliers ne feront "
+"qu'une bouchée d'eux. Je vais m'occuper de ces brigands du nord et vous "
+"rejoindrai plus tard."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:224
 msgid ""
 "That would not be wise. This appears to be the second wave of the legion, "
 "and it will be much more powerful than the first."
 msgstr ""
+"Ca ne serait pas sage. Ceci semble être la deuxième vague de la légion et "
+"elle sera bien plus puissante que la première."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:229
 msgid ""
 "Thank you, old man, but I think my men are more than a match for a few "
 "barbarians."
 msgstr ""
+"Merci, vieil homme, mais je pense qu'une poignée de barbares ne sera pas un "
+"problème pour mes hommes."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:234
 msgid ""
 "Sir Denevan, you are without doubt a brave commander, but I must warn you "
 "they are no barbarians. They-"
 msgstr ""
+"Sire Denevan, vous êtes sans aucun doute un commandant brave, mais je dois "
+"vous prévenir qu'ils ne sont pas des barbares. Ils..."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:239
 msgid ""
 "Silence! If you want an audience with the king, old man, don't try my "
 "patience. Viktor, proceed with your orders."
 msgstr ""
+"Silence ! Si vous voulez une audience avec le roi, vieil homme, ne jouez pas "
+"avec ma patience. Viktor, agissez selon vos ordres."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:247
 msgid ""
 "I fear even those orcs will put up a tough fight, especially if we have to "
 "go into the hills."
 msgstr ""
+"J'ai bien peur que ces orcs ne représentent une réelle menace, surtout si "
+"nous devons aller dans les collines."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:251
 msgid ""
 "I don't like the look of this either. Maybe we should take the nearby "
 "villages and gather some reinforcements first."
 msgstr ""
+"Je n'aime pas ça. Peut être devrions nous tout d'abord prendre les villages "
+"proches et recruter des renforts."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:255
 msgid "I agree. I just hope we have we have enough time before ... never mind."
 msgstr ""
+"Je suis d'accord. J'espère juste que nous aurons assez de temps avant que... "
+"peu importe."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:265
 msgid "I think we're getting the upper hand."
-msgstr ""
+msgstr "Je crois que nous prenons le dessus."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:269
 msgid "Then you thought wrongly ... Unleash the second wave!"
-msgstr ""
+msgstr "Alors vous vous trompez... Lancez la seconde vague d'assaut !"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:320
 msgid "Cut them down!"
-msgstr ""
+msgstr "Déchiquetez les !"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:324
 msgid "No ... this can't be possible!"
-msgstr ""
+msgstr "Non... c'est impossible !"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:329
 msgid "What are they?"
-msgstr ""
+msgstr "Qui sont ils ?"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:333
 msgid "Dark riders. We can't hope to beat them."
-msgstr ""
+msgstr "Des cavaliers des ténèbres. Nous ne pouvons pas espérer les vaincre."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:337
 msgid "But what about-"
-msgstr ""
+msgstr "Mais que..."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:341
 msgid ""
 "If your master if foolish enough to fight, there is nothing we can do. Our "
 "only chance to defeat these orcs before those dark riders reach us."
 msgstr ""
+"Si votre maître est assez fou pour attaquer, il n'y a rien que nous "
+"puissions faire. Notre seule chance est de vaincre ces orcs avant que ces "
+"cavaliers des ténèbres nous atteignent."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:353
 msgid "Don't stop, Viktor. Get out of here!"
-msgstr ""
+msgstr "Ne t'arrête pas Viktor, Enfuis toi !"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:357
 msgid "No! They can't!"
-msgstr ""
+msgstr "Non ! C'est impossible !"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:361
 msgid "Viktor, we have to go! They will come after us next."
-msgstr ""
+msgstr "Viktor, nous devons y aller ! C'est nous qu'ils attaqueront ensuite."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:375
 msgid ""
@@ -994,28 +1090,34 @@ msgid ""
 "and they can easily attack units one might mistakenly assume are out of "
 "reach."
 msgstr ""
+"Faites attention aux cavaliers des ténèbres. Ils ne sont pas seulement très "
+"puissants, mais aussi très rapide et peuvent facilement attaquer une unité "
+"supposée hors de portée."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:390
 msgid "Quick! There is no time to lose."
-msgstr ""
+msgstr "Vite ! Il n'y a pas de temps à perdre."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:399
 msgid ""
 "Sir Denevan was still valiantly fighting the legion as we rode south, but we "
 "both knew there was no doubt of the outcome."
 msgstr ""
+"Sire Denevan était toujours en train de se battre vaillamment contre la "
+"légion lorsque nous partîmes pour le sud, mais nous savions tous les deux "
+"qu'il n'y avait aucun doute sur l'issue de ce combat."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:403
 msgid "Don't stop, Viktor! Get away while you can."
-msgstr ""
+msgstr "Ne t'arrête pas Viktor ! Enfuis toi tant que tu le peux."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:409
 msgid "Goodbye, my Lord."
-msgstr ""
+msgstr "Au revoir, mon seigneur."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:413
 msgid "It's my fault. I know it is."
-msgstr ""
+msgstr "C'est ma faute, je le sais."
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:421
 msgid ""
@@ -1023,15 +1125,21 @@ msgid ""
 "to those who stand and fight. Let the world know: the great Zharagorn has "
 "returned to reclaim his throne, and nothing in the world can stop him!"
 msgstr ""
+"Partez ! Fuyez, aussi vite que vous le pouvez ! Mais racontez à vos maîtres "
+"ce qui arrive à ceux qui s'opposent à Zharagorn. Faites le savoir au monde "
+"entier : le grand Zharagorn est de retour pour réclamer son trône et rien au "
+"monde ne peut l'arrêter !"
 
 #: The_Unstoppable_Legion/scenarios/02_More_than_a_Match.cfg:446
 msgid "Look! More Dark Riders are coming from the south! We're trapped!"
 msgstr ""
+"Regardez ! D'autres cavaliers des ténèbres arrivent du sud ! Nous sommes "
+"piégés !"
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:5
 #: The_Unstoppable_Legion/scenarios/Cheat_Screen.cfg:148
 msgid "A Test of Valour"
-msgstr ""
+msgstr "Un Test de Valeur"
 
 #: The_Unstoppable_Legion/scenarios/10_The_Mines_of_Alsok.cfg:188
 #: The_Unstoppable_Legion/scenarios/11_Prejudice_and_Pride.cfg:178
@@ -1040,34 +1148,39 @@ msgid ""
 "` \n"
 "*@<255,255,255>Objective I:"
 msgstr ""
+"` \n"
+"*@<255,255,255>Objectif I :"
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:227
 msgid "Defeat 15 units; or"
-msgstr ""
+msgstr "Vaincre 15 unités; ou"
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:231
 msgid "Defeat Muff Morran"
-msgstr ""
+msgstr "Vaincre Muff Morran"
 
 #: The_Unstoppable_Legion/scenarios/05a_The_Front_Line.cfg:266
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:243
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:609
 msgid "Death of General Karak"
-msgstr ""
+msgstr "Mort du Général Karak"
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:320
 msgid ""
 "Knowing Zharagorn's forces were not far behind, we continued south. Finally, "
 "we reached Fort Takrit, an outpost just a few days' ride from Karasov."
 msgstr ""
+"Tout en sachant que les forces de Zharagorn n'étaient pas loin, nous "
+"continuâmes vers le sud. Finalement, nous atteignirent Fort Takrit, un post "
+"avancé à quelques jours de chevauchée de Karasov."
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:325
 msgid "Halt! Who goes ... oh, it's you, Viktor."
-msgstr ""
+msgstr "Halte ! Qui vient... oh, c'est vous, Viktor."
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:330
 msgid "Thank goodness it's you, sir! Deuterus, this is General Karak."
-msgstr ""
+msgstr "Dieu merci c'est vous, sir ! Deuterus, c'est le Général Karak."
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:335
 msgid ""
@@ -1075,6 +1188,9 @@ msgid ""
 "senior officer escorts us. With Sir Denevan lost, we need General Karak on "
 "side."
 msgstr ""
+"Viktor, notre seule chance d'obtenir une audience avec le Roi est d'être "
+"accompagnés par un officier respecté. Avec la parte de Sire Denevan, nous "
+"avons besoin du Général Karak à nos côtés."
 
 #: The_Unstoppable_Legion/scenarios/03_A_Test_of_Valour.cfg:340
 msgid ""
